@@ -1,4 +1,4 @@
-# Assignment 11
+# Assignment 11 - for the Funadamentals of Programming Course
 ## Requirements
 - Use object oriented programming and layered architecture
 - All modules with the exception of the UI will be covered with specifications and PyUnit test cases
