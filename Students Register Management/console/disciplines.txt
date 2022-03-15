@@ -1,0 +1,9 @@
+2, Fundaments of Programming
+3, Analysis
+4, Informatics
+5, Geometry
+6, Chemistry
+7, Physics
+8, Computational Logic
+9, English
+10, French
