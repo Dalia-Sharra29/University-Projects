@@ -24,20 +24,5 @@ Create an application to:
 - Implement **PyUnit test cases**
 
 ## Additional Implementations
-1. Persistent storage for all entities using file-based repositories. A `settings.properties` file to configure your application. The program must work the same way using in-memory repositories, text-file repositories and binary file repositories. The decision of which repositories are employed, as well as the location of the repository input files will be made in the program’s `settings.properties` file. An example is below:
-
-    a. `settings.properties` for loading from memory (input files are not required):
-    ```
-    repository = inmemory
-    cars = “”
-    clients = “”
-    rentals = “”
-    ```
-    b. `settings.properties` for loading from binary files:
-    ```
-    repository = binaryfiles
-    cars = “cars.pickle”
-    clients = “clients.pickle”
-    rentals = “rentals.pickle”
-    ```
+1. Persistent storage for all entities using file-based repositories. A `settings.properties` file to configure your application. The program must work the same way using in-memory repositories, text-file repositories and binary file repositories. The decision of which repositories are employed, as well as the location of the repository input files will be made in the program’s `settings.properties` file.
 2. Python module that contains an iterable data structure, a sort method and a filter method, together with complete PyUnit unit tests (100% coverage). The module can be reused in other projects. This data structure is used for storing objects in the repository and both functions are used in the repository and service layer.
