@@ -1,5 +1,5 @@
 # Students Register Management
-## Problem Statements
+## Problem Statement
 A faculty stores information about:
 - **Student**: `student_id`, `name`
 - **Discipline**: `discipline_id`, `name`
