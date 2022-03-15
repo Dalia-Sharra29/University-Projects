@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html><head><title>ShoppingBasket</title></head><body>
+<table border="1">
+<tr><td>Size</td><td>Colour</td><td>Price</td><td>Quantity</td><td>Photograph</td></tr>
+<tr><td>38</td><td>black</td><td>449</td><td>7</td><td><a href="https://www.zara.com/ro/ro/trenci-water-repellent-p06518466.html?v1=85915132&v2=1717641">https://www.zara.com/ro/ro/trenci-water-repellent-p06518466.html?v1=85915132&v2=1717641</a></td></tr>
+<tr><td>38</td><td>kaki</td><td>584</td><td>8</td><td><a href="https://www.aboutyou.ro/p/esprit/palton-de-primavara-toamna-5594592">https://www.aboutyou.ro/p/esprit/palton-de-primavara-toamna-5594592</a></td></tr>
+</table></body></html>
