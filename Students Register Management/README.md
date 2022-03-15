@@ -1,19 +1,4 @@
 # Students Register Management
-## Requirements
-- You will solve one of the problems below using simple feature-driven development
-- Your program must provide a menu-driven console-based user interface. Implementation details are up to you
-- Implementation must employ layered architecture and classes
-
-### For week 8 (25% of grade)
-- Implement features 1 and 2
-- Have at least 10 procedurally generated items in your application at startup
-- Provide specification and tests for all non-UI classes and methods for the first functionality
-- Implement and use your own exception classes.
-
-### For week 9 (25% of grade)
-- Implement features 3 and 4
-- Implement **PyUnit test cases**
-
 ## Problem Statements
 A faculty stores information about:
 - **Student**: `student_id`, `name`
@@ -29,3 +14,30 @@ Create an application to:
     - Students with the best school situation, sorted in descending order of their aggregated average (the average between their average grades per discipline)
     - All disciplines at which there is at least one grade, sorted in descending order of the average grade received by all students enrolled at that discipline
 5. Unlimited undo/redo functionality. Each step will undo/redo the previous operation performed by the user. Undo/redo operations must cascade and have a memory-efficient implementation (no superfluous list copying)
+
+## Requirements
+- Use simple feature-driven development
+- Your program must provide a menu-driven console-based user interface
+- Implementation must employ layered architecture and classes
+- Provide specification and tests for all non-UI classes and methods for the first functionality
+- Implement and use your own exception classes
+- Implement **PyUnit test cases**
+
+## Additional Implementations
+1. Persistent storage for all entities using file-based repositories. A `settings.properties` file to configure your application. The program must work the same way using in-memory repositories, text-file repositories and binary file repositories. The decision of which repositories are employed, as well as the location of the repository input files will be made in the program’s `settings.properties` file. An example is below:
+
+    a. `settings.properties` for loading from memory (input files are not required):
+    ```
+    repository = inmemory
+    cars = “”
+    clients = “”
+    rentals = “”
+    ```
+    b. `settings.properties` for loading from binary files:
+    ```
+    repository = binaryfiles
+    cars = “cars.pickle”
+    clients = “clients.pickle”
+    rentals = “rentals.pickle”
+    ```
+2. Python module that contains an iterable data structure, a sort method and a filter method, together with complete PyUnit unit tests (100% coverage). The module can be reused in other projects. This data structure is used for storing objects in the repository and both functions are used in the repository and service layer.
