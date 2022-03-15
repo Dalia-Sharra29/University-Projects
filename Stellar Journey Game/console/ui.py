@@ -35,7 +35,7 @@ class UI:
             print(' ')
             ui.print_menu()
             command, param = self.read_command()
-            if command == 'warp':
+            if command == 'warp' and param is not None:
                 try:
                     self._game.warp(param[0], param[1])
                 except BoardException as be:
@@ -43,7 +43,7 @@ class UI:
                 except GameException as ge:
                     print(ge)
                     game_over = True
-            elif command == "fire":
+            elif command == "fire" and param is not None:
                 try:
                     self._game.fire(param[0], param[1])
                 except BoardException as be:
