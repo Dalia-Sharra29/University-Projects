@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane prefHeight="750.0" prefWidth="900.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="GUI.MainWindowController">
+   <children>
+      <TableView fx:id="heapTableView" layoutX="324.0" layoutY="46.0" prefHeight="300.0" prefWidth="250.0" AnchorPane.topAnchor="46.0">
+        <columns>
+          <TableColumn fx:id="heapTableAddress" prefWidth="125.5999755859375" text="Address" />
+          <TableColumn fx:id="heapTableValue" prefWidth="124.80001831054688" text="Value" />
+        </columns>
+      </TableView>
+      <Text layoutX="325.0" layoutY="43.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Heap Table:" wrappingWidth="68.78558349609375" />
+      <ListView fx:id="outputView" layoutX="324.0" layoutY="380.0" prefHeight="300.0" prefWidth="250.0" />
+      <Text layoutX="325.0" layoutY="376.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Output:" wrappingWidth="45.70587158203125" />
+      <ListView fx:id="fileTableView" layoutX="615.0" layoutY="46.0" prefHeight="139.0" prefWidth="250.0" />
+      <Text layoutX="615.0" layoutY="43.0" strokeType="OUTSIDE" strokeWidth="0.0" text="File Table:" wrappingWidth="58.505859375" />
+      <ListView fx:id="execStackView" layoutX="40.0" layoutY="380.0" prefHeight="300.0" prefWidth="250.0" />
+      <Text layoutX="39.0" layoutY="376.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Execution Stack:" wrappingWidth="96.92578125" />
+      <TableView fx:id="symbolTableView" layoutX="40.0" layoutY="46.0" prefHeight="300.0" prefWidth="250.0">
+        <columns>
+          <TableColumn fx:id="symTableName" prefWidth="121.5999984741211" text="Name" />
+          <TableColumn fx:id="symTableValue" prefWidth="127.20001220703125" text="Value" />
+        </columns>
+      </TableView>
+      <Text layoutX="43.0" layoutY="43.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Symbol Table:" wrappingWidth="89.22735595703125" />
+      <Button fx:id="runButton" layoutX="778.0" layoutY="700.0" mnemonicParsing="false" onAction="#oneStep" text="Run one step" />
+      <ListView fx:id="progIdView" layoutX="615.0" layoutY="205.0" prefHeight="139.0" prefWidth="250.0" />
+      <Text layoutX="615.0" layoutY="200.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Program States:" wrappingWidth="96.92578124999994" />
+      <TextField fx:id="noProgStates" layoutX="40.0" layoutY="700.0" prefHeight="26.0" prefWidth="211.0" text="Number of Program States:" />
+      <TableView fx:id="latchTableView" layoutX="615.0" layoutY="380.0" prefHeight="300.0" prefWidth="250.0">
+        <columns>
+          <TableColumn fx:id="latchLocation" prefWidth="123.19989013671875" text="Location" />
+          <TableColumn fx:id="latchValue" prefWidth="126.40008544921875" text="Value" />
+        </columns>
+      </TableView>
+      <Text layoutX="615.0" layoutY="376.0" strokeType="OUTSIDE" strokeWidth="0.0" text="LatchTable:" wrappingWidth="68.78558349609375" />
+   </children>
+</AnchorPane>

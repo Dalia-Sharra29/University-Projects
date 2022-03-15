@@ -1,0 +1,2145 @@
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(Ref(int )v1;(int cnt;(new(v1, 1);(createSemaphore( cnt, rH(v1));;(fork((acquire(cnt);;(wH(v1,(rH(v1)*10));(print(rH(v1));release(cnt);))));(fork((acquire(cnt);;(wH(v1,(rH(v1)*10));(wH(v1,(rH(v1)*2));(print(rH(v1));release(cnt);)))));(acquire(cnt);;(print((rH(v1)-1));release(cnt);))))))));
+
+
+***** SymbolTable *****
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+Ref(int )v1;
+(int cnt;(new(v1, 1);(createSemaphore( cnt, rH(v1));;(fork((acquire(cnt);;(wH(v1,(rH(v1)*10));(print(rH(v1));release(cnt);))));(fork((acquire(cnt);;(wH(v1,(rH(v1)*10));(wH(v1,(rH(v1)*2));(print(rH(v1));release(cnt);)))));(acquire(cnt);;(print((rH(v1)-1));release(cnt);)))))));
+
+
+***** SymbolTable *****
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+Ref(int )v1;
+(int cnt;(new(v1, 1);(createSemaphore( cnt, rH(v1));;(fork((acquire(cnt);;(wH(v1,(rH(v1)*10));(print(rH(v1));release(cnt);))));(fork((acquire(cnt);;(wH(v1,(rH(v1)*10));(wH(v1,(rH(v1)*2));(print(rH(v1));release(cnt);)))));(acquire(cnt);;(print((rH(v1)-1));release(cnt);)))))));
+
+
+***** SymbolTable *****
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(int cnt;(new(v1, 1);(createSemaphore( cnt, rH(v1));;(fork((acquire(cnt);;(wH(v1,(rH(v1)*10));(print(rH(v1));release(cnt);))));(fork((acquire(cnt);;(wH(v1,(rH(v1)*10));(wH(v1,(rH(v1)*2));(print(rH(v1));release(cnt);)))));(acquire(cnt);;(print((rH(v1)-1));release(cnt);)))))));
+
+
+***** SymbolTable *****
+v1 -> (0, int );
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(int cnt;(new(v1, 1);(createSemaphore( cnt, rH(v1));;(fork((acquire(cnt);;(wH(v1,(rH(v1)*10));(print(rH(v1));release(cnt);))));(fork((acquire(cnt);;(wH(v1,(rH(v1)*10));(wH(v1,(rH(v1)*2));(print(rH(v1));release(cnt);)))));(acquire(cnt);;(print((rH(v1)-1));release(cnt);)))))));
+
+
+***** SymbolTable *****
+v1 -> (0, int );
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+int cnt;
+(new(v1, 1);(createSemaphore( cnt, rH(v1));;(fork((acquire(cnt);;(wH(v1,(rH(v1)*10));(print(rH(v1));release(cnt);))));(fork((acquire(cnt);;(wH(v1,(rH(v1)*10));(wH(v1,(rH(v1)*2));(print(rH(v1));release(cnt);)))));(acquire(cnt);;(print((rH(v1)-1));release(cnt);))))));
+
+
+***** SymbolTable *****
+v1 -> (0, int );
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+int cnt;
+(new(v1, 1);(createSemaphore( cnt, rH(v1));;(fork((acquire(cnt);;(wH(v1,(rH(v1)*10));(print(rH(v1));release(cnt);))));(fork((acquire(cnt);;(wH(v1,(rH(v1)*10));(wH(v1,(rH(v1)*2));(print(rH(v1));release(cnt);)))));(acquire(cnt);;(print((rH(v1)-1));release(cnt);))))));
+
+
+***** SymbolTable *****
+v1 -> (0, int );
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(new(v1, 1);(createSemaphore( cnt, rH(v1));;(fork((acquire(cnt);;(wH(v1,(rH(v1)*10));(print(rH(v1));release(cnt);))));(fork((acquire(cnt);;(wH(v1,(rH(v1)*10));(wH(v1,(rH(v1)*2));(print(rH(v1));release(cnt);)))));(acquire(cnt);;(print((rH(v1)-1));release(cnt);))))));
+
+
+***** SymbolTable *****
+cnt -> 0;
+v1 -> (0, int );
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(new(v1, 1);(createSemaphore( cnt, rH(v1));;(fork((acquire(cnt);;(wH(v1,(rH(v1)*10));(print(rH(v1));release(cnt);))));(fork((acquire(cnt);;(wH(v1,(rH(v1)*10));(wH(v1,(rH(v1)*2));(print(rH(v1));release(cnt);)))));(acquire(cnt);;(print((rH(v1)-1));release(cnt);))))));
+
+
+***** SymbolTable *****
+cnt -> 0;
+v1 -> (0, int );
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+new(v1, 1);
+(createSemaphore( cnt, rH(v1));;(fork((acquire(cnt);;(wH(v1,(rH(v1)*10));(print(rH(v1));release(cnt);))));(fork((acquire(cnt);;(wH(v1,(rH(v1)*10));(wH(v1,(rH(v1)*2));(print(rH(v1));release(cnt);)))));(acquire(cnt);;(print((rH(v1)-1));release(cnt);)))));
+
+
+***** SymbolTable *****
+cnt -> 0;
+v1 -> (0, int );
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+new(v1, 1);
+(createSemaphore( cnt, rH(v1));;(fork((acquire(cnt);;(wH(v1,(rH(v1)*10));(print(rH(v1));release(cnt);))));(fork((acquire(cnt);;(wH(v1,(rH(v1)*10));(wH(v1,(rH(v1)*2));(print(rH(v1));release(cnt);)))));(acquire(cnt);;(print((rH(v1)-1));release(cnt);)))));
+
+
+***** SymbolTable *****
+cnt -> 0;
+v1 -> (0, int );
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(createSemaphore( cnt, rH(v1));;(fork((acquire(cnt);;(wH(v1,(rH(v1)*10));(print(rH(v1));release(cnt);))));(fork((acquire(cnt);;(wH(v1,(rH(v1)*10));(wH(v1,(rH(v1)*2));(print(rH(v1));release(cnt);)))));(acquire(cnt);;(print((rH(v1)-1));release(cnt);)))));
+
+
+***** SymbolTable *****
+cnt -> 0;
+v1 -> (1, int );
+
+***** Heap *****
+1->1
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(createSemaphore( cnt, rH(v1));;(fork((acquire(cnt);;(wH(v1,(rH(v1)*10));(print(rH(v1));release(cnt);))));(fork((acquire(cnt);;(wH(v1,(rH(v1)*10));(wH(v1,(rH(v1)*2));(print(rH(v1));release(cnt);)))));(acquire(cnt);;(print((rH(v1)-1));release(cnt);)))));
+
+
+***** SymbolTable *****
+cnt -> 0;
+v1 -> (1, int );
+
+***** Heap *****
+1->1
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+createSemaphore( cnt, rH(v1));;
+(fork((acquire(cnt);;(wH(v1,(rH(v1)*10));(print(rH(v1));release(cnt);))));(fork((acquire(cnt);;(wH(v1,(rH(v1)*10));(wH(v1,(rH(v1)*2));(print(rH(v1));release(cnt);)))));(acquire(cnt);;(print((rH(v1)-1));release(cnt);))));
+
+
+***** SymbolTable *****
+cnt -> 0;
+v1 -> (1, int );
+
+***** Heap *****
+1->1
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+createSemaphore( cnt, rH(v1));;
+(fork((acquire(cnt);;(wH(v1,(rH(v1)*10));(print(rH(v1));release(cnt);))));(fork((acquire(cnt);;(wH(v1,(rH(v1)*10));(wH(v1,(rH(v1)*2));(print(rH(v1));release(cnt);)))));(acquire(cnt);;(print((rH(v1)-1));release(cnt);))));
+
+
+***** SymbolTable *****
+cnt -> 0;
+v1 -> (1, int );
+
+***** Heap *****
+1->1
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(fork((acquire(cnt);;(wH(v1,(rH(v1)*10));(print(rH(v1));release(cnt);))));(fork((acquire(cnt);;(wH(v1,(rH(v1)*10));(wH(v1,(rH(v1)*2));(print(rH(v1));release(cnt);)))));(acquire(cnt);;(print((rH(v1)-1));release(cnt);))));
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->1
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[];
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(fork((acquire(cnt);;(wH(v1,(rH(v1)*10));(print(rH(v1));release(cnt);))));(fork((acquire(cnt);;(wH(v1,(rH(v1)*10));(wH(v1,(rH(v1)*2));(print(rH(v1));release(cnt);)))));(acquire(cnt);;(print((rH(v1)-1));release(cnt);))));
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->1
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[];
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+fork((acquire(cnt);;(wH(v1,(rH(v1)*10));(print(rH(v1));release(cnt);))));
+(fork((acquire(cnt);;(wH(v1,(rH(v1)*10));(wH(v1,(rH(v1)*2));(print(rH(v1));release(cnt);)))));(acquire(cnt);;(print((rH(v1)-1));release(cnt);)));
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->1
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[];
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+fork((acquire(cnt);;(wH(v1,(rH(v1)*10));(print(rH(v1));release(cnt);))));
+(fork((acquire(cnt);;(wH(v1,(rH(v1)*10));(wH(v1,(rH(v1)*2));(print(rH(v1));release(cnt);)))));(acquire(cnt);;(print((rH(v1)-1));release(cnt);)));
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->1
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[];
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(fork((acquire(cnt);;(wH(v1,(rH(v1)*10));(wH(v1,(rH(v1)*2));(print(rH(v1));release(cnt);)))));(acquire(cnt);;(print((rH(v1)-1));release(cnt);)));
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->1
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[];
+
+------------------------------------------------------
+
+
+Thread number id: 2
+------------------------------------------------------
+***** ExecutionStack *****
+(acquire(cnt);;(wH(v1,(rH(v1)*10));(print(rH(v1));release(cnt);)));
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->1
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[];
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(fork((acquire(cnt);;(wH(v1,(rH(v1)*10));(wH(v1,(rH(v1)*2));(print(rH(v1));release(cnt);)))));(acquire(cnt);;(print((rH(v1)-1));release(cnt);)));
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->1
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[];
+
+------------------------------------------------------
+
+
+Thread number id: 2
+------------------------------------------------------
+***** ExecutionStack *****
+(acquire(cnt);;(wH(v1,(rH(v1)*10));(print(rH(v1));release(cnt);)));
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->1
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[];
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+fork((acquire(cnt);;(wH(v1,(rH(v1)*10));(wH(v1,(rH(v1)*2));(print(rH(v1));release(cnt);)))));
+(acquire(cnt);;(print((rH(v1)-1));release(cnt);));
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->1
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[];
+
+------------------------------------------------------
+
+
+Thread number id: 2
+------------------------------------------------------
+***** ExecutionStack *****
+acquire(cnt);;
+(wH(v1,(rH(v1)*10));(print(rH(v1));release(cnt);));
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->1
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[];
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+fork((acquire(cnt);;(wH(v1,(rH(v1)*10));(wH(v1,(rH(v1)*2));(print(rH(v1));release(cnt);)))));
+(acquire(cnt);;(print((rH(v1)-1));release(cnt);));
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->1
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[];
+
+------------------------------------------------------
+
+
+Thread number id: 2
+------------------------------------------------------
+***** ExecutionStack *****
+acquire(cnt);;
+(wH(v1,(rH(v1)*10));(print(rH(v1));release(cnt);));
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->1
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[];
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(acquire(cnt);;(print((rH(v1)-1));release(cnt);));
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->1
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[2];
+
+------------------------------------------------------
+
+
+Thread number id: 2
+------------------------------------------------------
+***** ExecutionStack *****
+(wH(v1,(rH(v1)*10));(print(rH(v1));release(cnt);));
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->1
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[2];
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+(acquire(cnt);;(wH(v1,(rH(v1)*10));(wH(v1,(rH(v1)*2));(print(rH(v1));release(cnt);))));
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->1
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[2];
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(acquire(cnt);;(print((rH(v1)-1));release(cnt);));
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->1
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[2];
+
+------------------------------------------------------
+
+
+Thread number id: 2
+------------------------------------------------------
+***** ExecutionStack *****
+(wH(v1,(rH(v1)*10));(print(rH(v1));release(cnt);));
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->1
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[2];
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+(acquire(cnt);;(wH(v1,(rH(v1)*10));(wH(v1,(rH(v1)*2));(print(rH(v1));release(cnt);))));
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->1
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[2];
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+acquire(cnt);;
+(print((rH(v1)-1));release(cnt););
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->1
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[2];
+
+------------------------------------------------------
+
+
+Thread number id: 2
+------------------------------------------------------
+***** ExecutionStack *****
+wH(v1,(rH(v1)*10));
+(print(rH(v1));release(cnt););
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->1
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[2];
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+acquire(cnt);;
+(wH(v1,(rH(v1)*10));(wH(v1,(rH(v1)*2));(print(rH(v1));release(cnt);)));
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->1
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[2];
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+acquire(cnt);;
+(print((rH(v1)-1));release(cnt););
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->1
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[2];
+
+------------------------------------------------------
+
+
+Thread number id: 2
+------------------------------------------------------
+***** ExecutionStack *****
+wH(v1,(rH(v1)*10));
+(print(rH(v1));release(cnt););
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->1
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[2];
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+acquire(cnt);;
+(wH(v1,(rH(v1)*10));(wH(v1,(rH(v1)*2));(print(rH(v1));release(cnt);)));
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->1
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[2];
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+acquire(cnt);;
+(print((rH(v1)-1));release(cnt););
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->10
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[2];
+
+------------------------------------------------------
+
+
+Thread number id: 2
+------------------------------------------------------
+***** ExecutionStack *****
+(print(rH(v1));release(cnt););
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->10
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[2];
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+acquire(cnt);;
+(wH(v1,(rH(v1)*10));(wH(v1,(rH(v1)*2));(print(rH(v1));release(cnt);)));
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->10
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[2];
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+acquire(cnt);;
+(print((rH(v1)-1));release(cnt););
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->10
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[2];
+
+------------------------------------------------------
+
+
+Thread number id: 2
+------------------------------------------------------
+***** ExecutionStack *****
+(print(rH(v1));release(cnt););
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->10
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[2];
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+acquire(cnt);;
+(wH(v1,(rH(v1)*10));(wH(v1,(rH(v1)*2));(print(rH(v1));release(cnt);)));
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->10
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[2];
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+acquire(cnt);;
+(print((rH(v1)-1));release(cnt););
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->10
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[2];
+
+------------------------------------------------------
+
+
+Thread number id: 2
+------------------------------------------------------
+***** ExecutionStack *****
+print(rH(v1));
+release(cnt);;
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->10
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[2];
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+acquire(cnt);;
+(wH(v1,(rH(v1)*10));(wH(v1,(rH(v1)*2));(print(rH(v1));release(cnt);)));
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->10
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[2];
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+acquire(cnt);;
+(print((rH(v1)-1));release(cnt););
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->10
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[2];
+
+------------------------------------------------------
+
+
+Thread number id: 2
+------------------------------------------------------
+***** ExecutionStack *****
+print(rH(v1));
+release(cnt);;
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->10
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[2];
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+acquire(cnt);;
+(wH(v1,(rH(v1)*10));(wH(v1,(rH(v1)*2));(print(rH(v1));release(cnt);)));
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->10
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[2];
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+acquire(cnt);;
+(print((rH(v1)-1));release(cnt););
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->10
+
+***** OutputList *****
+10
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[2];
+
+------------------------------------------------------
+
+
+Thread number id: 2
+------------------------------------------------------
+***** ExecutionStack *****
+release(cnt);;
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->10
+
+***** OutputList *****
+10
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[2];
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+acquire(cnt);;
+(wH(v1,(rH(v1)*10));(wH(v1,(rH(v1)*2));(print(rH(v1));release(cnt);)));
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->10
+
+***** OutputList *****
+10
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[2];
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+acquire(cnt);;
+(print((rH(v1)-1));release(cnt););
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->10
+
+***** OutputList *****
+10
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[2];
+
+------------------------------------------------------
+
+
+Thread number id: 2
+------------------------------------------------------
+***** ExecutionStack *****
+release(cnt);;
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->10
+
+***** OutputList *****
+10
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[2];
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+acquire(cnt);;
+(wH(v1,(rH(v1)*10));(wH(v1,(rH(v1)*2));(print(rH(v1));release(cnt);)));
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->10
+
+***** OutputList *****
+10
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[2];
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+acquire(cnt);;
+(print((rH(v1)-1));release(cnt););
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->10
+
+***** OutputList *****
+10
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[];
+
+------------------------------------------------------
+
+
+Thread number id: 2
+------------------------------------------------------
+***** ExecutionStack *****
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->10
+
+***** OutputList *****
+10
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[];
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+acquire(cnt);;
+(wH(v1,(rH(v1)*10));(wH(v1,(rH(v1)*2));(print(rH(v1));release(cnt);)));
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->10
+
+***** OutputList *****
+10
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[];
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+acquire(cnt);;
+(print((rH(v1)-1));release(cnt););
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->10
+
+***** OutputList *****
+10
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[];
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+acquire(cnt);;
+(wH(v1,(rH(v1)*10));(wH(v1,(rH(v1)*2));(print(rH(v1));release(cnt);)));
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->10
+
+***** OutputList *****
+10
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[];
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(print((rH(v1)-1));release(cnt););
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->10
+
+***** OutputList *****
+10
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[1];
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+acquire(cnt);;
+(wH(v1,(rH(v1)*10));(wH(v1,(rH(v1)*2));(print(rH(v1));release(cnt);)));
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->10
+
+***** OutputList *****
+10
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[1];
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(print((rH(v1)-1));release(cnt););
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->10
+
+***** OutputList *****
+10
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[1];
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+acquire(cnt);;
+(wH(v1,(rH(v1)*10));(wH(v1,(rH(v1)*2));(print(rH(v1));release(cnt);)));
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->10
+
+***** OutputList *****
+10
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[1];
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+print((rH(v1)-1));
+release(cnt);;
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->10
+
+***** OutputList *****
+10
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[1];
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+acquire(cnt);;
+(wH(v1,(rH(v1)*10));(wH(v1,(rH(v1)*2));(print(rH(v1));release(cnt);)));
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->10
+
+***** OutputList *****
+10
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[1];
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+print((rH(v1)-1));
+release(cnt);;
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->10
+
+***** OutputList *****
+10
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[1];
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+acquire(cnt);;
+(wH(v1,(rH(v1)*10));(wH(v1,(rH(v1)*2));(print(rH(v1));release(cnt);)));
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->10
+
+***** OutputList *****
+10
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[1];
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+release(cnt);;
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->10
+
+***** OutputList *****
+10
+9
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[1];
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+acquire(cnt);;
+(wH(v1,(rH(v1)*10));(wH(v1,(rH(v1)*2));(print(rH(v1));release(cnt);)));
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->10
+
+***** OutputList *****
+10
+9
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[1];
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+release(cnt);;
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->10
+
+***** OutputList *****
+10
+9
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[1];
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+acquire(cnt);;
+(wH(v1,(rH(v1)*10));(wH(v1,(rH(v1)*2));(print(rH(v1));release(cnt);)));
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->10
+
+***** OutputList *****
+10
+9
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[1];
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->10
+
+***** OutputList *****
+10
+9
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[3];
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+(wH(v1,(rH(v1)*10));(wH(v1,(rH(v1)*2));(print(rH(v1));release(cnt);)));
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->10
+
+***** OutputList *****
+10
+9
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[3];
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+(wH(v1,(rH(v1)*10));(wH(v1,(rH(v1)*2));(print(rH(v1));release(cnt);)));
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->10
+
+***** OutputList *****
+10
+9
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[3];
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+wH(v1,(rH(v1)*10));
+(wH(v1,(rH(v1)*2));(print(rH(v1));release(cnt);));
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->10
+
+***** OutputList *****
+10
+9
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[3];
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+wH(v1,(rH(v1)*10));
+(wH(v1,(rH(v1)*2));(print(rH(v1));release(cnt);));
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->10
+
+***** OutputList *****
+10
+9
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[3];
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+(wH(v1,(rH(v1)*2));(print(rH(v1));release(cnt);));
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->100
+
+***** OutputList *****
+10
+9
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[3];
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+(wH(v1,(rH(v1)*2));(print(rH(v1));release(cnt);));
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->100
+
+***** OutputList *****
+10
+9
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[3];
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+wH(v1,(rH(v1)*2));
+(print(rH(v1));release(cnt););
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->100
+
+***** OutputList *****
+10
+9
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[3];
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+wH(v1,(rH(v1)*2));
+(print(rH(v1));release(cnt););
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->100
+
+***** OutputList *****
+10
+9
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[3];
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+(print(rH(v1));release(cnt););
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->200
+
+***** OutputList *****
+10
+9
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[3];
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+(print(rH(v1));release(cnt););
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->200
+
+***** OutputList *****
+10
+9
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[3];
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+print(rH(v1));
+release(cnt);;
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->200
+
+***** OutputList *****
+10
+9
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[3];
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+print(rH(v1));
+release(cnt);;
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->200
+
+***** OutputList *****
+10
+9
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[3];
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+release(cnt);;
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->200
+
+***** OutputList *****
+10
+9
+200
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[3];
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+release(cnt);;
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->200
+
+***** OutputList *****
+10
+9
+200
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[3];
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+
+
+***** SymbolTable *****
+cnt -> 1;
+v1 -> (1, int );
+
+***** Heap *****
+1->200
+
+***** OutputList *****
+10
+9
+200
+
+***** FileTable *****
+
+***** SemaphoreTable *****
+1 -> 1=[];
+
+------------------------------------------------------
+
+

@@ -1,0 +1,5090 @@
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(int v;(v=2;(int w;(w=5;(Model.Statments.CallStmt@1ccca343;(print(v);(fork(Model.Statments.CallStmt@59a75cd1);fork(Model.Statments.CallStmt@3dd63d34))))))));
+
+
+***** SymbolTable *****
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+int v;
+(v=2;(int w;(w=5;(Model.Statments.CallStmt@1ccca343;(print(v);(fork(Model.Statments.CallStmt@59a75cd1);fork(Model.Statments.CallStmt@3dd63d34)))))));
+
+
+***** SymbolTable *****
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+int v;
+(v=2;(int w;(w=5;(Model.Statments.CallStmt@1ccca343;(print(v);(fork(Model.Statments.CallStmt@59a75cd1);fork(Model.Statments.CallStmt@3dd63d34)))))));
+
+
+***** SymbolTable *****
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(v=2;(int w;(w=5;(Model.Statments.CallStmt@1ccca343;(print(v);(fork(Model.Statments.CallStmt@59a75cd1);fork(Model.Statments.CallStmt@3dd63d34)))))));
+
+
+***** SymbolTable *****
+v -> 0;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(v=2;(int w;(w=5;(Model.Statments.CallStmt@1ccca343;(print(v);(fork(Model.Statments.CallStmt@59a75cd1);fork(Model.Statments.CallStmt@3dd63d34)))))));
+
+
+***** SymbolTable *****
+v -> 0;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+v=2;
+(int w;(w=5;(Model.Statments.CallStmt@1ccca343;(print(v);(fork(Model.Statments.CallStmt@59a75cd1);fork(Model.Statments.CallStmt@3dd63d34))))));
+
+
+***** SymbolTable *****
+v -> 0;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+v=2;
+(int w;(w=5;(Model.Statments.CallStmt@1ccca343;(print(v);(fork(Model.Statments.CallStmt@59a75cd1);fork(Model.Statments.CallStmt@3dd63d34))))));
+
+
+***** SymbolTable *****
+v -> 0;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(int w;(w=5;(Model.Statments.CallStmt@1ccca343;(print(v);(fork(Model.Statments.CallStmt@59a75cd1);fork(Model.Statments.CallStmt@3dd63d34))))));
+
+
+***** SymbolTable *****
+v -> 2;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(int w;(w=5;(Model.Statments.CallStmt@1ccca343;(print(v);(fork(Model.Statments.CallStmt@59a75cd1);fork(Model.Statments.CallStmt@3dd63d34))))));
+
+
+***** SymbolTable *****
+v -> 2;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+int w;
+(w=5;(Model.Statments.CallStmt@1ccca343;(print(v);(fork(Model.Statments.CallStmt@59a75cd1);fork(Model.Statments.CallStmt@3dd63d34)))));
+
+
+***** SymbolTable *****
+v -> 2;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+int w;
+(w=5;(Model.Statments.CallStmt@1ccca343;(print(v);(fork(Model.Statments.CallStmt@59a75cd1);fork(Model.Statments.CallStmt@3dd63d34)))));
+
+
+***** SymbolTable *****
+v -> 2;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(w=5;(Model.Statments.CallStmt@1ccca343;(print(v);(fork(Model.Statments.CallStmt@59a75cd1);fork(Model.Statments.CallStmt@3dd63d34)))));
+
+
+***** SymbolTable *****
+v -> 2;
+w -> 0;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(w=5;(Model.Statments.CallStmt@1ccca343;(print(v);(fork(Model.Statments.CallStmt@59a75cd1);fork(Model.Statments.CallStmt@3dd63d34)))));
+
+
+***** SymbolTable *****
+v -> 2;
+w -> 0;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+w=5;
+(Model.Statments.CallStmt@1ccca343;(print(v);(fork(Model.Statments.CallStmt@59a75cd1);fork(Model.Statments.CallStmt@3dd63d34))));
+
+
+***** SymbolTable *****
+v -> 2;
+w -> 0;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+w=5;
+(Model.Statments.CallStmt@1ccca343;(print(v);(fork(Model.Statments.CallStmt@59a75cd1);fork(Model.Statments.CallStmt@3dd63d34))));
+
+
+***** SymbolTable *****
+v -> 2;
+w -> 0;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(Model.Statments.CallStmt@1ccca343;(print(v);(fork(Model.Statments.CallStmt@59a75cd1);fork(Model.Statments.CallStmt@3dd63d34))));
+
+
+***** SymbolTable *****
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(Model.Statments.CallStmt@1ccca343;(print(v);(fork(Model.Statments.CallStmt@59a75cd1);fork(Model.Statments.CallStmt@3dd63d34))));
+
+
+***** SymbolTable *****
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+Model.Statments.CallStmt@1ccca343;
+(print(v);(fork(Model.Statments.CallStmt@59a75cd1);fork(Model.Statments.CallStmt@3dd63d34)));
+
+
+***** SymbolTable *****
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+Model.Statments.CallStmt@1ccca343;
+(print(v);(fork(Model.Statments.CallStmt@59a75cd1);fork(Model.Statments.CallStmt@3dd63d34)));
+
+
+***** SymbolTable *****
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+int b;
+b=5;
+int a;
+a=20;
+(v=(a+b);print(v));
+return;
+(print(v);(fork(Model.Statments.CallStmt@59a75cd1);fork(Model.Statments.CallStmt@3dd63d34)));
+
+
+***** SymbolTable *****
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+int b;
+b=5;
+int a;
+a=20;
+(v=(a+b);print(v));
+return;
+(print(v);(fork(Model.Statments.CallStmt@59a75cd1);fork(Model.Statments.CallStmt@3dd63d34)));
+
+
+***** SymbolTable *****
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+b=5;
+int a;
+a=20;
+(v=(a+b);print(v));
+return;
+(print(v);(fork(Model.Statments.CallStmt@59a75cd1);fork(Model.Statments.CallStmt@3dd63d34)));
+
+
+***** SymbolTable *****
+b -> 0;
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+b=5;
+int a;
+a=20;
+(v=(a+b);print(v));
+return;
+(print(v);(fork(Model.Statments.CallStmt@59a75cd1);fork(Model.Statments.CallStmt@3dd63d34)));
+
+
+***** SymbolTable *****
+b -> 0;
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+int a;
+a=20;
+(v=(a+b);print(v));
+return;
+(print(v);(fork(Model.Statments.CallStmt@59a75cd1);fork(Model.Statments.CallStmt@3dd63d34)));
+
+
+***** SymbolTable *****
+b -> 5;
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+int a;
+a=20;
+(v=(a+b);print(v));
+return;
+(print(v);(fork(Model.Statments.CallStmt@59a75cd1);fork(Model.Statments.CallStmt@3dd63d34)));
+
+
+***** SymbolTable *****
+b -> 5;
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+a=20;
+(v=(a+b);print(v));
+return;
+(print(v);(fork(Model.Statments.CallStmt@59a75cd1);fork(Model.Statments.CallStmt@3dd63d34)));
+
+
+***** SymbolTable *****
+a -> 0;
+b -> 5;
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+a=20;
+(v=(a+b);print(v));
+return;
+(print(v);(fork(Model.Statments.CallStmt@59a75cd1);fork(Model.Statments.CallStmt@3dd63d34)));
+
+
+***** SymbolTable *****
+a -> 0;
+b -> 5;
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(v=(a+b);print(v));
+return;
+(print(v);(fork(Model.Statments.CallStmt@59a75cd1);fork(Model.Statments.CallStmt@3dd63d34)));
+
+
+***** SymbolTable *****
+a -> 20;
+b -> 5;
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(v=(a+b);print(v));
+return;
+(print(v);(fork(Model.Statments.CallStmt@59a75cd1);fork(Model.Statments.CallStmt@3dd63d34)));
+
+
+***** SymbolTable *****
+a -> 20;
+b -> 5;
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+v=(a+b);
+print(v);
+return;
+(print(v);(fork(Model.Statments.CallStmt@59a75cd1);fork(Model.Statments.CallStmt@3dd63d34)));
+
+
+***** SymbolTable *****
+a -> 20;
+b -> 5;
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+v=(a+b);
+print(v);
+return;
+(print(v);(fork(Model.Statments.CallStmt@59a75cd1);fork(Model.Statments.CallStmt@3dd63d34)));
+
+
+***** SymbolTable *****
+a -> 20;
+b -> 5;
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+print(v);
+return;
+(print(v);(fork(Model.Statments.CallStmt@59a75cd1);fork(Model.Statments.CallStmt@3dd63d34)));
+
+
+***** SymbolTable *****
+a -> 20;
+b -> 5;
+v -> 25;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+print(v);
+return;
+(print(v);(fork(Model.Statments.CallStmt@59a75cd1);fork(Model.Statments.CallStmt@3dd63d34)));
+
+
+***** SymbolTable *****
+a -> 20;
+b -> 5;
+v -> 25;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+return;
+(print(v);(fork(Model.Statments.CallStmt@59a75cd1);fork(Model.Statments.CallStmt@3dd63d34)));
+
+
+***** SymbolTable *****
+a -> 20;
+b -> 5;
+v -> 25;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+return;
+(print(v);(fork(Model.Statments.CallStmt@59a75cd1);fork(Model.Statments.CallStmt@3dd63d34)));
+
+
+***** SymbolTable *****
+a -> 20;
+b -> 5;
+v -> 25;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(print(v);(fork(Model.Statments.CallStmt@59a75cd1);fork(Model.Statments.CallStmt@3dd63d34)));
+
+
+***** SymbolTable *****
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(print(v);(fork(Model.Statments.CallStmt@59a75cd1);fork(Model.Statments.CallStmt@3dd63d34)));
+
+
+***** SymbolTable *****
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+print(v);
+(fork(Model.Statments.CallStmt@59a75cd1);fork(Model.Statments.CallStmt@3dd63d34));
+
+
+***** SymbolTable *****
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+print(v);
+(fork(Model.Statments.CallStmt@59a75cd1);fork(Model.Statments.CallStmt@3dd63d34));
+
+
+***** SymbolTable *****
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(fork(Model.Statments.CallStmt@59a75cd1);fork(Model.Statments.CallStmt@3dd63d34));
+
+
+***** SymbolTable *****
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(fork(Model.Statments.CallStmt@59a75cd1);fork(Model.Statments.CallStmt@3dd63d34));
+
+
+***** SymbolTable *****
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+fork(Model.Statments.CallStmt@59a75cd1);
+fork(Model.Statments.CallStmt@3dd63d34);
+
+
+***** SymbolTable *****
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+fork(Model.Statments.CallStmt@59a75cd1);
+fork(Model.Statments.CallStmt@3dd63d34);
+
+
+***** SymbolTable *****
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+fork(Model.Statments.CallStmt@3dd63d34);
+
+
+***** SymbolTable *****
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 2
+------------------------------------------------------
+***** ExecutionStack *****
+Model.Statments.CallStmt@59a75cd1;
+
+
+***** SymbolTable *****
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+fork(Model.Statments.CallStmt@3dd63d34);
+
+
+***** SymbolTable *****
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 2
+------------------------------------------------------
+***** ExecutionStack *****
+Model.Statments.CallStmt@59a75cd1;
+
+
+***** SymbolTable *****
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+
+
+***** SymbolTable *****
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 2
+------------------------------------------------------
+***** ExecutionStack *****
+int b;
+b=5;
+int a;
+a=2;
+(v=(a*b);print(v));
+return;
+
+
+***** SymbolTable *****
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+Model.Statments.CallStmt@3dd63d34;
+
+
+***** SymbolTable *****
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 2
+------------------------------------------------------
+***** ExecutionStack *****
+int b;
+b=5;
+int a;
+a=2;
+(v=(a*b);print(v));
+return;
+
+
+***** SymbolTable *****
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+Model.Statments.CallStmt@3dd63d34;
+
+
+***** SymbolTable *****
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 2
+------------------------------------------------------
+***** ExecutionStack *****
+b=5;
+int a;
+a=2;
+(v=(a*b);print(v));
+return;
+
+
+***** SymbolTable *****
+b -> 0;
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+int b;
+b=5;
+int a;
+a=2;
+(v=(a+b);print(v));
+return;
+
+
+***** SymbolTable *****
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 2
+------------------------------------------------------
+***** ExecutionStack *****
+b=5;
+int a;
+a=2;
+(v=(a*b);print(v));
+return;
+
+
+***** SymbolTable *****
+b -> 0;
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+int b;
+b=5;
+int a;
+a=2;
+(v=(a+b);print(v));
+return;
+
+
+***** SymbolTable *****
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 2
+------------------------------------------------------
+***** ExecutionStack *****
+int a;
+a=2;
+(v=(a*b);print(v));
+return;
+
+
+***** SymbolTable *****
+b -> 5;
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+b=5;
+int a;
+a=2;
+(v=(a+b);print(v));
+return;
+
+
+***** SymbolTable *****
+b -> 0;
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 2
+------------------------------------------------------
+***** ExecutionStack *****
+int a;
+a=2;
+(v=(a*b);print(v));
+return;
+
+
+***** SymbolTable *****
+b -> 5;
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+b=5;
+int a;
+a=2;
+(v=(a+b);print(v));
+return;
+
+
+***** SymbolTable *****
+b -> 0;
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 2
+------------------------------------------------------
+***** ExecutionStack *****
+a=2;
+(v=(a*b);print(v));
+return;
+
+
+***** SymbolTable *****
+a -> 0;
+b -> 5;
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+int a;
+a=2;
+(v=(a+b);print(v));
+return;
+
+
+***** SymbolTable *****
+b -> 5;
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 2
+------------------------------------------------------
+***** ExecutionStack *****
+a=2;
+(v=(a*b);print(v));
+return;
+
+
+***** SymbolTable *****
+a -> 0;
+b -> 5;
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+int a;
+a=2;
+(v=(a+b);print(v));
+return;
+
+
+***** SymbolTable *****
+b -> 5;
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 2
+------------------------------------------------------
+***** ExecutionStack *****
+(v=(a*b);print(v));
+return;
+
+
+***** SymbolTable *****
+a -> 2;
+b -> 5;
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+a=2;
+(v=(a+b);print(v));
+return;
+
+
+***** SymbolTable *****
+a -> 0;
+b -> 5;
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 2
+------------------------------------------------------
+***** ExecutionStack *****
+(v=(a*b);print(v));
+return;
+
+
+***** SymbolTable *****
+a -> 2;
+b -> 5;
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+a=2;
+(v=(a+b);print(v));
+return;
+
+
+***** SymbolTable *****
+a -> 0;
+b -> 5;
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 2
+------------------------------------------------------
+***** ExecutionStack *****
+v=(a*b);
+print(v);
+return;
+
+
+***** SymbolTable *****
+a -> 2;
+b -> 5;
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+(v=(a+b);print(v));
+return;
+
+
+***** SymbolTable *****
+a -> 2;
+b -> 5;
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 2
+------------------------------------------------------
+***** ExecutionStack *****
+v=(a*b);
+print(v);
+return;
+
+
+***** SymbolTable *****
+a -> 2;
+b -> 5;
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+(v=(a+b);print(v));
+return;
+
+
+***** SymbolTable *****
+a -> 2;
+b -> 5;
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 2
+------------------------------------------------------
+***** ExecutionStack *****
+print(v);
+return;
+
+
+***** SymbolTable *****
+a -> 2;
+b -> 5;
+v -> 10;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+v=(a+b);
+print(v);
+return;
+
+
+***** SymbolTable *****
+a -> 2;
+b -> 5;
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 2
+------------------------------------------------------
+***** ExecutionStack *****
+print(v);
+return;
+
+
+***** SymbolTable *****
+a -> 2;
+b -> 5;
+v -> 10;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+v=(a+b);
+print(v);
+return;
+
+
+***** SymbolTable *****
+a -> 2;
+b -> 5;
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 2
+------------------------------------------------------
+***** ExecutionStack *****
+return;
+
+
+***** SymbolTable *****
+a -> 2;
+b -> 5;
+v -> 10;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+10
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+print(v);
+return;
+
+
+***** SymbolTable *****
+a -> 2;
+b -> 5;
+v -> 7;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+10
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 2
+------------------------------------------------------
+***** ExecutionStack *****
+return;
+
+
+***** SymbolTable *****
+a -> 2;
+b -> 5;
+v -> 10;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+10
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+print(v);
+return;
+
+
+***** SymbolTable *****
+a -> 2;
+b -> 5;
+v -> 7;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+10
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 2
+------------------------------------------------------
+***** ExecutionStack *****
+
+
+***** SymbolTable *****
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+10
+7
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+return;
+
+
+***** SymbolTable *****
+a -> 2;
+b -> 5;
+v -> 7;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+10
+7
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+return;
+
+
+***** SymbolTable *****
+a -> 2;
+b -> 5;
+v -> 7;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+10
+7
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+
+
+***** SymbolTable *****
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+10
+7
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(int v;(v=2;(int w;(w=5;(call sum([(v*10), w]);(print(v);(fork(call product([v, w]));fork(call sum([v, w])))))))));
+
+
+***** SymbolTable *****
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+int v;
+(v=2;(int w;(w=5;(call sum([(v*10), w]);(print(v);(fork(call product([v, w]));fork(call sum([v, w]))))))));
+
+
+***** SymbolTable *****
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+int v;
+(v=2;(int w;(w=5;(call sum([(v*10), w]);(print(v);(fork(call product([v, w]));fork(call sum([v, w]))))))));
+
+
+***** SymbolTable *****
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(v=2;(int w;(w=5;(call sum([(v*10), w]);(print(v);(fork(call product([v, w]));fork(call sum([v, w]))))))));
+
+
+***** SymbolTable *****
+v -> 0;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(v=2;(int w;(w=5;(call sum([(v*10), w]);(print(v);(fork(call product([v, w]));fork(call sum([v, w]))))))));
+
+
+***** SymbolTable *****
+v -> 0;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+v=2;
+(int w;(w=5;(call sum([(v*10), w]);(print(v);(fork(call product([v, w]));fork(call sum([v, w])))))));
+
+
+***** SymbolTable *****
+v -> 0;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+v=2;
+(int w;(w=5;(call sum([(v*10), w]);(print(v);(fork(call product([v, w]));fork(call sum([v, w])))))));
+
+
+***** SymbolTable *****
+v -> 0;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(int w;(w=5;(call sum([(v*10), w]);(print(v);(fork(call product([v, w]));fork(call sum([v, w])))))));
+
+
+***** SymbolTable *****
+v -> 2;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(int w;(w=5;(call sum([(v*10), w]);(print(v);(fork(call product([v, w]));fork(call sum([v, w])))))));
+
+
+***** SymbolTable *****
+v -> 2;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+int w;
+(w=5;(call sum([(v*10), w]);(print(v);(fork(call product([v, w]));fork(call sum([v, w]))))));
+
+
+***** SymbolTable *****
+v -> 2;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+int w;
+(w=5;(call sum([(v*10), w]);(print(v);(fork(call product([v, w]));fork(call sum([v, w]))))));
+
+
+***** SymbolTable *****
+v -> 2;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(w=5;(call sum([(v*10), w]);(print(v);(fork(call product([v, w]));fork(call sum([v, w]))))));
+
+
+***** SymbolTable *****
+v -> 2;
+w -> 0;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(w=5;(call sum([(v*10), w]);(print(v);(fork(call product([v, w]));fork(call sum([v, w]))))));
+
+
+***** SymbolTable *****
+v -> 2;
+w -> 0;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+w=5;
+(call sum([(v*10), w]);(print(v);(fork(call product([v, w]));fork(call sum([v, w])))));
+
+
+***** SymbolTable *****
+v -> 2;
+w -> 0;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+w=5;
+(call sum([(v*10), w]);(print(v);(fork(call product([v, w]));fork(call sum([v, w])))));
+
+
+***** SymbolTable *****
+v -> 2;
+w -> 0;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(call sum([(v*10), w]);(print(v);(fork(call product([v, w]));fork(call sum([v, w])))));
+
+
+***** SymbolTable *****
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(call sum([(v*10), w]);(print(v);(fork(call product([v, w]));fork(call sum([v, w])))));
+
+
+***** SymbolTable *****
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+call sum([(v*10), w]);
+(print(v);(fork(call product([v, w]));fork(call sum([v, w]))));
+
+
+***** SymbolTable *****
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+call sum([(v*10), w]);
+(print(v);(fork(call product([v, w]));fork(call sum([v, w]))));
+
+
+***** SymbolTable *****
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+int b;
+b=5;
+int a;
+a=20;
+(v=(a+b);print(v));
+return;
+(print(v);(fork(call product([v, w]));fork(call sum([v, w]))));
+
+
+***** SymbolTable *****
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+int b;
+b=5;
+int a;
+a=20;
+(v=(a+b);print(v));
+return;
+(print(v);(fork(call product([v, w]));fork(call sum([v, w]))));
+
+
+***** SymbolTable *****
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+b=5;
+int a;
+a=20;
+(v=(a+b);print(v));
+return;
+(print(v);(fork(call product([v, w]));fork(call sum([v, w]))));
+
+
+***** SymbolTable *****
+b -> 0;
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+b=5;
+int a;
+a=20;
+(v=(a+b);print(v));
+return;
+(print(v);(fork(call product([v, w]));fork(call sum([v, w]))));
+
+
+***** SymbolTable *****
+b -> 0;
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+int a;
+a=20;
+(v=(a+b);print(v));
+return;
+(print(v);(fork(call product([v, w]));fork(call sum([v, w]))));
+
+
+***** SymbolTable *****
+b -> 5;
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+int a;
+a=20;
+(v=(a+b);print(v));
+return;
+(print(v);(fork(call product([v, w]));fork(call sum([v, w]))));
+
+
+***** SymbolTable *****
+b -> 5;
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+a=20;
+(v=(a+b);print(v));
+return;
+(print(v);(fork(call product([v, w]));fork(call sum([v, w]))));
+
+
+***** SymbolTable *****
+a -> 0;
+b -> 5;
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+a=20;
+(v=(a+b);print(v));
+return;
+(print(v);(fork(call product([v, w]));fork(call sum([v, w]))));
+
+
+***** SymbolTable *****
+a -> 0;
+b -> 5;
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(v=(a+b);print(v));
+return;
+(print(v);(fork(call product([v, w]));fork(call sum([v, w]))));
+
+
+***** SymbolTable *****
+a -> 20;
+b -> 5;
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(v=(a+b);print(v));
+return;
+(print(v);(fork(call product([v, w]));fork(call sum([v, w]))));
+
+
+***** SymbolTable *****
+a -> 20;
+b -> 5;
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+v=(a+b);
+print(v);
+return;
+(print(v);(fork(call product([v, w]));fork(call sum([v, w]))));
+
+
+***** SymbolTable *****
+a -> 20;
+b -> 5;
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+v=(a+b);
+print(v);
+return;
+(print(v);(fork(call product([v, w]));fork(call sum([v, w]))));
+
+
+***** SymbolTable *****
+a -> 20;
+b -> 5;
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+print(v);
+return;
+(print(v);(fork(call product([v, w]));fork(call sum([v, w]))));
+
+
+***** SymbolTable *****
+a -> 20;
+b -> 5;
+v -> 25;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+print(v);
+return;
+(print(v);(fork(call product([v, w]));fork(call sum([v, w]))));
+
+
+***** SymbolTable *****
+a -> 20;
+b -> 5;
+v -> 25;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+return;
+(print(v);(fork(call product([v, w]));fork(call sum([v, w]))));
+
+
+***** SymbolTable *****
+a -> 20;
+b -> 5;
+v -> 25;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+return;
+(print(v);(fork(call product([v, w]));fork(call sum([v, w]))));
+
+
+***** SymbolTable *****
+a -> 20;
+b -> 5;
+v -> 25;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(print(v);(fork(call product([v, w]));fork(call sum([v, w]))));
+
+
+***** SymbolTable *****
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(print(v);(fork(call product([v, w]));fork(call sum([v, w]))));
+
+
+***** SymbolTable *****
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+print(v);
+(fork(call product([v, w]));fork(call sum([v, w])));
+
+
+***** SymbolTable *****
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+print(v);
+(fork(call product([v, w]));fork(call sum([v, w])));
+
+
+***** SymbolTable *****
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(fork(call product([v, w]));fork(call sum([v, w])));
+
+
+***** SymbolTable *****
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(fork(call product([v, w]));fork(call sum([v, w])));
+
+
+***** SymbolTable *****
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+fork(call product([v, w]));
+fork(call sum([v, w]));
+
+
+***** SymbolTable *****
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+fork(call product([v, w]));
+fork(call sum([v, w]));
+
+
+***** SymbolTable *****
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+fork(call sum([v, w]));
+
+
+***** SymbolTable *****
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 2
+------------------------------------------------------
+***** ExecutionStack *****
+call product([v, w]);
+
+
+***** SymbolTable *****
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+fork(call sum([v, w]));
+
+
+***** SymbolTable *****
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 2
+------------------------------------------------------
+***** ExecutionStack *****
+call product([v, w]);
+
+
+***** SymbolTable *****
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+
+
+***** SymbolTable *****
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 2
+------------------------------------------------------
+***** ExecutionStack *****
+int b;
+b=5;
+int a;
+a=2;
+(v=(a*b);print(v));
+return;
+
+
+***** SymbolTable *****
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+call sum([v, w]);
+
+
+***** SymbolTable *****
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 2
+------------------------------------------------------
+***** ExecutionStack *****
+int b;
+b=5;
+int a;
+a=2;
+(v=(a*b);print(v));
+return;
+
+
+***** SymbolTable *****
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+call sum([v, w]);
+
+
+***** SymbolTable *****
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 2
+------------------------------------------------------
+***** ExecutionStack *****
+b=5;
+int a;
+a=2;
+(v=(a*b);print(v));
+return;
+
+
+***** SymbolTable *****
+b -> 0;
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+int b;
+b=5;
+int a;
+a=2;
+(v=(a+b);print(v));
+return;
+
+
+***** SymbolTable *****
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 2
+------------------------------------------------------
+***** ExecutionStack *****
+b=5;
+int a;
+a=2;
+(v=(a*b);print(v));
+return;
+
+
+***** SymbolTable *****
+b -> 0;
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+int b;
+b=5;
+int a;
+a=2;
+(v=(a+b);print(v));
+return;
+
+
+***** SymbolTable *****
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 2
+------------------------------------------------------
+***** ExecutionStack *****
+int a;
+a=2;
+(v=(a*b);print(v));
+return;
+
+
+***** SymbolTable *****
+b -> 5;
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+b=5;
+int a;
+a=2;
+(v=(a+b);print(v));
+return;
+
+
+***** SymbolTable *****
+b -> 0;
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 2
+------------------------------------------------------
+***** ExecutionStack *****
+int a;
+a=2;
+(v=(a*b);print(v));
+return;
+
+
+***** SymbolTable *****
+b -> 5;
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+b=5;
+int a;
+a=2;
+(v=(a+b);print(v));
+return;
+
+
+***** SymbolTable *****
+b -> 0;
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 2
+------------------------------------------------------
+***** ExecutionStack *****
+a=2;
+(v=(a*b);print(v));
+return;
+
+
+***** SymbolTable *****
+a -> 0;
+b -> 5;
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+int a;
+a=2;
+(v=(a+b);print(v));
+return;
+
+
+***** SymbolTable *****
+b -> 5;
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 2
+------------------------------------------------------
+***** ExecutionStack *****
+a=2;
+(v=(a*b);print(v));
+return;
+
+
+***** SymbolTable *****
+a -> 0;
+b -> 5;
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+int a;
+a=2;
+(v=(a+b);print(v));
+return;
+
+
+***** SymbolTable *****
+b -> 5;
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 2
+------------------------------------------------------
+***** ExecutionStack *****
+(v=(a*b);print(v));
+return;
+
+
+***** SymbolTable *****
+a -> 2;
+b -> 5;
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+a=2;
+(v=(a+b);print(v));
+return;
+
+
+***** SymbolTable *****
+a -> 0;
+b -> 5;
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 2
+------------------------------------------------------
+***** ExecutionStack *****
+(v=(a*b);print(v));
+return;
+
+
+***** SymbolTable *****
+a -> 2;
+b -> 5;
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+a=2;
+(v=(a+b);print(v));
+return;
+
+
+***** SymbolTable *****
+a -> 0;
+b -> 5;
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 2
+------------------------------------------------------
+***** ExecutionStack *****
+v=(a*b);
+print(v);
+return;
+
+
+***** SymbolTable *****
+a -> 2;
+b -> 5;
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+(v=(a+b);print(v));
+return;
+
+
+***** SymbolTable *****
+a -> 2;
+b -> 5;
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 2
+------------------------------------------------------
+***** ExecutionStack *****
+v=(a*b);
+print(v);
+return;
+
+
+***** SymbolTable *****
+a -> 2;
+b -> 5;
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+(v=(a+b);print(v));
+return;
+
+
+***** SymbolTable *****
+a -> 2;
+b -> 5;
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 2
+------------------------------------------------------
+***** ExecutionStack *****
+print(v);
+return;
+
+
+***** SymbolTable *****
+a -> 2;
+b -> 5;
+v -> 10;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+v=(a+b);
+print(v);
+return;
+
+
+***** SymbolTable *****
+a -> 2;
+b -> 5;
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 2
+------------------------------------------------------
+***** ExecutionStack *****
+print(v);
+return;
+
+
+***** SymbolTable *****
+a -> 2;
+b -> 5;
+v -> 10;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+v=(a+b);
+print(v);
+return;
+
+
+***** SymbolTable *****
+a -> 2;
+b -> 5;
+v -> 2;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 2
+------------------------------------------------------
+***** ExecutionStack *****
+return;
+
+
+***** SymbolTable *****
+a -> 2;
+b -> 5;
+v -> 10;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+10
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+print(v);
+return;
+
+
+***** SymbolTable *****
+a -> 2;
+b -> 5;
+v -> 7;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+10
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 2
+------------------------------------------------------
+***** ExecutionStack *****
+return;
+
+
+***** SymbolTable *****
+a -> 2;
+b -> 5;
+v -> 10;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+10
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+print(v);
+return;
+
+
+***** SymbolTable *****
+a -> 2;
+b -> 5;
+v -> 7;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+10
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 2
+------------------------------------------------------
+***** ExecutionStack *****
+
+
+***** SymbolTable *****
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+10
+7
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+return;
+
+
+***** SymbolTable *****
+a -> 2;
+b -> 5;
+v -> 7;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+10
+7
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+return;
+
+
+***** SymbolTable *****
+a -> 2;
+b -> 5;
+v -> 7;
+w -> 5;
+;
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+10
+7
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+
+Thread number id: 3
+------------------------------------------------------
+***** ExecutionStack *****
+
+
+***** SymbolTable *****
+v -> 2;
+w -> 5;
+;
+
+
+***** Heap *****
+
+***** OutputList *****
+25
+2
+10
+7
+
+***** FileTable *****
+
+***** ProcTable *****
+product -> [a, b]=(v=(a*b);print(v));
+sum -> [a, b]=(v=(a+b);print(v));
+
+------------------------------------------------------
+
+

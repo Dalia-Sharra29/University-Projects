@@ -1,0 +1,1358 @@
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(String varf;(varf=test.in;(open(varf);(int varc;(read(varf,varc);(print(varc);(read(varf,varc);(print(varc);close(varf)))))))));
+
+
+***** SymbolTable *****
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+String varf;
+(varf=test.in;(open(varf);(int varc;(read(varf,varc);(print(varc);(read(varf,varc);(print(varc);close(varf))))))));
+
+
+***** SymbolTable *****
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+String varf;
+(varf=test.in;(open(varf);(int varc;(read(varf,varc);(print(varc);(read(varf,varc);(print(varc);close(varf))))))));
+
+
+***** SymbolTable *****
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(varf=test.in;(open(varf);(int varc;(read(varf,varc);(print(varc);(read(varf,varc);(print(varc);close(varf))))))));
+
+
+***** SymbolTable *****
+varf -> ;
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(varf=test.in;(open(varf);(int varc;(read(varf,varc);(print(varc);(read(varf,varc);(print(varc);close(varf))))))));
+
+
+***** SymbolTable *****
+varf -> ;
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+varf=test.in;
+(open(varf);(int varc;(read(varf,varc);(print(varc);(read(varf,varc);(print(varc);close(varf)))))));
+
+
+***** SymbolTable *****
+varf -> ;
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+varf=test.in;
+(open(varf);(int varc;(read(varf,varc);(print(varc);(read(varf,varc);(print(varc);close(varf)))))));
+
+
+***** SymbolTable *****
+varf -> ;
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(open(varf);(int varc;(read(varf,varc);(print(varc);(read(varf,varc);(print(varc);close(varf)))))));
+
+
+***** SymbolTable *****
+varf -> test.in;
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(open(varf);(int varc;(read(varf,varc);(print(varc);(read(varf,varc);(print(varc);close(varf)))))));
+
+
+***** SymbolTable *****
+varf -> test.in;
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+open(varf);
+(int varc;(read(varf,varc);(print(varc);(read(varf,varc);(print(varc);close(varf))))));
+
+
+***** SymbolTable *****
+varf -> test.in;
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+open(varf);
+(int varc;(read(varf,varc);(print(varc);(read(varf,varc);(print(varc);close(varf))))));
+
+
+***** SymbolTable *****
+varf -> test.in;
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(int varc;(read(varf,varc);(print(varc);(read(varf,varc);(print(varc);close(varf))))));
+
+
+***** SymbolTable *****
+varf -> test.in;
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+test.in -> java.io.BufferedReader@38217b25;
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(int varc;(read(varf,varc);(print(varc);(read(varf,varc);(print(varc);close(varf))))));
+
+
+***** SymbolTable *****
+varf -> test.in;
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+test.in -> java.io.BufferedReader@38217b25;
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+int varc;
+(read(varf,varc);(print(varc);(read(varf,varc);(print(varc);close(varf)))));
+
+
+***** SymbolTable *****
+varf -> test.in;
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+test.in -> java.io.BufferedReader@38217b25;
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+int varc;
+(read(varf,varc);(print(varc);(read(varf,varc);(print(varc);close(varf)))));
+
+
+***** SymbolTable *****
+varf -> test.in;
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+test.in -> java.io.BufferedReader@38217b25;
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(read(varf,varc);(print(varc);(read(varf,varc);(print(varc);close(varf)))));
+
+
+***** SymbolTable *****
+varf -> test.in;
+varc -> 0;
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+test.in -> java.io.BufferedReader@38217b25;
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(read(varf,varc);(print(varc);(read(varf,varc);(print(varc);close(varf)))));
+
+
+***** SymbolTable *****
+varf -> test.in;
+varc -> 0;
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+test.in -> java.io.BufferedReader@38217b25;
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+read(varf,varc);
+(print(varc);(read(varf,varc);(print(varc);close(varf))));
+
+
+***** SymbolTable *****
+varf -> test.in;
+varc -> 0;
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+test.in -> java.io.BufferedReader@38217b25;
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+read(varf,varc);
+(print(varc);(read(varf,varc);(print(varc);close(varf))));
+
+
+***** SymbolTable *****
+varf -> test.in;
+varc -> 0;
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+test.in -> java.io.BufferedReader@38217b25;
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(print(varc);(read(varf,varc);(print(varc);close(varf))));
+
+
+***** SymbolTable *****
+varf -> test.in;
+varc -> 15;
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+test.in -> java.io.BufferedReader@38217b25;
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(print(varc);(read(varf,varc);(print(varc);close(varf))));
+
+
+***** SymbolTable *****
+varf -> test.in;
+varc -> 15;
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+test.in -> java.io.BufferedReader@38217b25;
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+print(varc);
+(read(varf,varc);(print(varc);close(varf)));
+
+
+***** SymbolTable *****
+varf -> test.in;
+varc -> 15;
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+test.in -> java.io.BufferedReader@38217b25;
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+print(varc);
+(read(varf,varc);(print(varc);close(varf)));
+
+
+***** SymbolTable *****
+varf -> test.in;
+varc -> 15;
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+test.in -> java.io.BufferedReader@38217b25;
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(read(varf,varc);(print(varc);close(varf)));
+
+
+***** SymbolTable *****
+varf -> test.in;
+varc -> 15;
+
+***** Heap *****
+
+***** OutputList *****
+15
+
+***** FileTable *****
+test.in -> java.io.BufferedReader@38217b25;
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(read(varf,varc);(print(varc);close(varf)));
+
+
+***** SymbolTable *****
+varf -> test.in;
+varc -> 15;
+
+***** Heap *****
+
+***** OutputList *****
+15
+
+***** FileTable *****
+test.in -> java.io.BufferedReader@38217b25;
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+read(varf,varc);
+(print(varc);close(varf));
+
+
+***** SymbolTable *****
+varf -> test.in;
+varc -> 15;
+
+***** Heap *****
+
+***** OutputList *****
+15
+
+***** FileTable *****
+test.in -> java.io.BufferedReader@38217b25;
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+read(varf,varc);
+(print(varc);close(varf));
+
+
+***** SymbolTable *****
+varf -> test.in;
+varc -> 15;
+
+***** Heap *****
+
+***** OutputList *****
+15
+
+***** FileTable *****
+test.in -> java.io.BufferedReader@38217b25;
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(print(varc);close(varf));
+
+
+***** SymbolTable *****
+varf -> test.in;
+varc -> 50;
+
+***** Heap *****
+
+***** OutputList *****
+15
+
+***** FileTable *****
+test.in -> java.io.BufferedReader@38217b25;
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(print(varc);close(varf));
+
+
+***** SymbolTable *****
+varf -> test.in;
+varc -> 50;
+
+***** Heap *****
+
+***** OutputList *****
+15
+
+***** FileTable *****
+test.in -> java.io.BufferedReader@38217b25;
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+print(varc);
+close(varf);
+
+
+***** SymbolTable *****
+varf -> test.in;
+varc -> 50;
+
+***** Heap *****
+
+***** OutputList *****
+15
+
+***** FileTable *****
+test.in -> java.io.BufferedReader@38217b25;
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+print(varc);
+close(varf);
+
+
+***** SymbolTable *****
+varf -> test.in;
+varc -> 50;
+
+***** Heap *****
+
+***** OutputList *****
+15
+
+***** FileTable *****
+test.in -> java.io.BufferedReader@38217b25;
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+close(varf);
+
+
+***** SymbolTable *****
+varf -> test.in;
+varc -> 50;
+
+***** Heap *****
+
+***** OutputList *****
+15
+50
+
+***** FileTable *****
+test.in -> java.io.BufferedReader@38217b25;
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+close(varf);
+
+
+***** SymbolTable *****
+varf -> test.in;
+varc -> 50;
+
+***** Heap *****
+
+***** OutputList *****
+15
+50
+
+***** FileTable *****
+test.in -> java.io.BufferedReader@38217b25;
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+
+
+***** SymbolTable *****
+varf -> test.in;
+varc -> 50;
+
+***** Heap *****
+
+***** OutputList *****
+15
+50
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(String varf;(varf=test.in;(open(varf);(int varc;(read(varf,varc);(print(varc);(read(varf,varc);(print(varc);close(varf)))))))));
+
+
+***** SymbolTable *****
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+String varf;
+(varf=test.in;(open(varf);(int varc;(read(varf,varc);(print(varc);(read(varf,varc);(print(varc);close(varf))))))));
+
+
+***** SymbolTable *****
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+String varf;
+(varf=test.in;(open(varf);(int varc;(read(varf,varc);(print(varc);(read(varf,varc);(print(varc);close(varf))))))));
+
+
+***** SymbolTable *****
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(varf=test.in;(open(varf);(int varc;(read(varf,varc);(print(varc);(read(varf,varc);(print(varc);close(varf))))))));
+
+
+***** SymbolTable *****
+varf -> ;
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(varf=test.in;(open(varf);(int varc;(read(varf,varc);(print(varc);(read(varf,varc);(print(varc);close(varf))))))));
+
+
+***** SymbolTable *****
+varf -> ;
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+varf=test.in;
+(open(varf);(int varc;(read(varf,varc);(print(varc);(read(varf,varc);(print(varc);close(varf)))))));
+
+
+***** SymbolTable *****
+varf -> ;
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+varf=test.in;
+(open(varf);(int varc;(read(varf,varc);(print(varc);(read(varf,varc);(print(varc);close(varf)))))));
+
+
+***** SymbolTable *****
+varf -> ;
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(open(varf);(int varc;(read(varf,varc);(print(varc);(read(varf,varc);(print(varc);close(varf)))))));
+
+
+***** SymbolTable *****
+varf -> test.in;
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(open(varf);(int varc;(read(varf,varc);(print(varc);(read(varf,varc);(print(varc);close(varf)))))));
+
+
+***** SymbolTable *****
+varf -> test.in;
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+open(varf);
+(int varc;(read(varf,varc);(print(varc);(read(varf,varc);(print(varc);close(varf))))));
+
+
+***** SymbolTable *****
+varf -> test.in;
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+open(varf);
+(int varc;(read(varf,varc);(print(varc);(read(varf,varc);(print(varc);close(varf))))));
+
+
+***** SymbolTable *****
+varf -> test.in;
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(int varc;(read(varf,varc);(print(varc);(read(varf,varc);(print(varc);close(varf))))));
+
+
+***** SymbolTable *****
+varf -> test.in;
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+test.in -> java.io.BufferedReader@4b683f7b;
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(int varc;(read(varf,varc);(print(varc);(read(varf,varc);(print(varc);close(varf))))));
+
+
+***** SymbolTable *****
+varf -> test.in;
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+test.in -> java.io.BufferedReader@4b683f7b;
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+int varc;
+(read(varf,varc);(print(varc);(read(varf,varc);(print(varc);close(varf)))));
+
+
+***** SymbolTable *****
+varf -> test.in;
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+test.in -> java.io.BufferedReader@4b683f7b;
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+int varc;
+(read(varf,varc);(print(varc);(read(varf,varc);(print(varc);close(varf)))));
+
+
+***** SymbolTable *****
+varf -> test.in;
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+test.in -> java.io.BufferedReader@4b683f7b;
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(read(varf,varc);(print(varc);(read(varf,varc);(print(varc);close(varf)))));
+
+
+***** SymbolTable *****
+varf -> test.in;
+varc -> 0;
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+test.in -> java.io.BufferedReader@4b683f7b;
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(read(varf,varc);(print(varc);(read(varf,varc);(print(varc);close(varf)))));
+
+
+***** SymbolTable *****
+varf -> test.in;
+varc -> 0;
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+test.in -> java.io.BufferedReader@4b683f7b;
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+read(varf,varc);
+(print(varc);(read(varf,varc);(print(varc);close(varf))));
+
+
+***** SymbolTable *****
+varf -> test.in;
+varc -> 0;
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+test.in -> java.io.BufferedReader@4b683f7b;
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+read(varf,varc);
+(print(varc);(read(varf,varc);(print(varc);close(varf))));
+
+
+***** SymbolTable *****
+varf -> test.in;
+varc -> 0;
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+test.in -> java.io.BufferedReader@4b683f7b;
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(print(varc);(read(varf,varc);(print(varc);close(varf))));
+
+
+***** SymbolTable *****
+varf -> test.in;
+varc -> 15;
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+test.in -> java.io.BufferedReader@4b683f7b;
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(print(varc);(read(varf,varc);(print(varc);close(varf))));
+
+
+***** SymbolTable *****
+varf -> test.in;
+varc -> 15;
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+test.in -> java.io.BufferedReader@4b683f7b;
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+print(varc);
+(read(varf,varc);(print(varc);close(varf)));
+
+
+***** SymbolTable *****
+varf -> test.in;
+varc -> 15;
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+test.in -> java.io.BufferedReader@4b683f7b;
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+print(varc);
+(read(varf,varc);(print(varc);close(varf)));
+
+
+***** SymbolTable *****
+varf -> test.in;
+varc -> 15;
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+test.in -> java.io.BufferedReader@4b683f7b;
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(read(varf,varc);(print(varc);close(varf)));
+
+
+***** SymbolTable *****
+varf -> test.in;
+varc -> 15;
+
+***** Heap *****
+
+***** OutputList *****
+15
+
+***** FileTable *****
+test.in -> java.io.BufferedReader@4b683f7b;
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(read(varf,varc);(print(varc);close(varf)));
+
+
+***** SymbolTable *****
+varf -> test.in;
+varc -> 15;
+
+***** Heap *****
+
+***** OutputList *****
+15
+
+***** FileTable *****
+test.in -> java.io.BufferedReader@4b683f7b;
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+read(varf,varc);
+(print(varc);close(varf));
+
+
+***** SymbolTable *****
+varf -> test.in;
+varc -> 15;
+
+***** Heap *****
+
+***** OutputList *****
+15
+
+***** FileTable *****
+test.in -> java.io.BufferedReader@4b683f7b;
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+read(varf,varc);
+(print(varc);close(varf));
+
+
+***** SymbolTable *****
+varf -> test.in;
+varc -> 15;
+
+***** Heap *****
+
+***** OutputList *****
+15
+
+***** FileTable *****
+test.in -> java.io.BufferedReader@4b683f7b;
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(print(varc);close(varf));
+
+
+***** SymbolTable *****
+varf -> test.in;
+varc -> 50;
+
+***** Heap *****
+
+***** OutputList *****
+15
+
+***** FileTable *****
+test.in -> java.io.BufferedReader@4b683f7b;
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(print(varc);close(varf));
+
+
+***** SymbolTable *****
+varf -> test.in;
+varc -> 50;
+
+***** Heap *****
+
+***** OutputList *****
+15
+
+***** FileTable *****
+test.in -> java.io.BufferedReader@4b683f7b;
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+print(varc);
+close(varf);
+
+
+***** SymbolTable *****
+varf -> test.in;
+varc -> 50;
+
+***** Heap *****
+
+***** OutputList *****
+15
+
+***** FileTable *****
+test.in -> java.io.BufferedReader@4b683f7b;
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+print(varc);
+close(varf);
+
+
+***** SymbolTable *****
+varf -> test.in;
+varc -> 50;
+
+***** Heap *****
+
+***** OutputList *****
+15
+
+***** FileTable *****
+test.in -> java.io.BufferedReader@4b683f7b;
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+close(varf);
+
+
+***** SymbolTable *****
+varf -> test.in;
+varc -> 50;
+
+***** Heap *****
+
+***** OutputList *****
+15
+50
+
+***** FileTable *****
+test.in -> java.io.BufferedReader@4b683f7b;
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+close(varf);
+
+
+***** SymbolTable *****
+varf -> test.in;
+varc -> 50;
+
+***** Heap *****
+
+***** OutputList *****
+15
+50
+
+***** FileTable *****
+test.in -> java.io.BufferedReader@4b683f7b;
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+
+
+***** SymbolTable *****
+varf -> test.in;
+varc -> 50;
+
+***** Heap *****
+
+***** OutputList *****
+15
+50
+
+***** FileTable *****
+
+------------------------------------------------------
+
+

@@ -1,0 +1,2168 @@
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(Ref(int )a;(Ref(int )b;(int v;(new(a, 0);(new(b, 0);(wH(a,1);(wH(b,2);(Model.Statments.CondAssignmentStmt@33337b04;(print(v);(Model.Statments.CondAssignmentStmt@4854f9c6;print(v)))))))))));
+
+
+***** SymbolTable *****
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+Ref(int )a;
+(Ref(int )b;(int v;(new(a, 0);(new(b, 0);(wH(a,1);(wH(b,2);(Model.Statments.CondAssignmentStmt@33337b04;(print(v);(Model.Statments.CondAssignmentStmt@4854f9c6;print(v))))))))));
+
+
+***** SymbolTable *****
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+Ref(int )a;
+(Ref(int )b;(int v;(new(a, 0);(new(b, 0);(wH(a,1);(wH(b,2);(Model.Statments.CondAssignmentStmt@33337b04;(print(v);(Model.Statments.CondAssignmentStmt@4854f9c6;print(v))))))))));
+
+
+***** SymbolTable *****
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(Ref(int )b;(int v;(new(a, 0);(new(b, 0);(wH(a,1);(wH(b,2);(Model.Statments.CondAssignmentStmt@33337b04;(print(v);(Model.Statments.CondAssignmentStmt@4854f9c6;print(v))))))))));
+
+
+***** SymbolTable *****
+a -> (0, int );
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(Ref(int )b;(int v;(new(a, 0);(new(b, 0);(wH(a,1);(wH(b,2);(Model.Statments.CondAssignmentStmt@33337b04;(print(v);(Model.Statments.CondAssignmentStmt@4854f9c6;print(v))))))))));
+
+
+***** SymbolTable *****
+a -> (0, int );
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+Ref(int )b;
+(int v;(new(a, 0);(new(b, 0);(wH(a,1);(wH(b,2);(Model.Statments.CondAssignmentStmt@33337b04;(print(v);(Model.Statments.CondAssignmentStmt@4854f9c6;print(v)))))))));
+
+
+***** SymbolTable *****
+a -> (0, int );
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+Ref(int )b;
+(int v;(new(a, 0);(new(b, 0);(wH(a,1);(wH(b,2);(Model.Statments.CondAssignmentStmt@33337b04;(print(v);(Model.Statments.CondAssignmentStmt@4854f9c6;print(v)))))))));
+
+
+***** SymbolTable *****
+a -> (0, int );
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(int v;(new(a, 0);(new(b, 0);(wH(a,1);(wH(b,2);(Model.Statments.CondAssignmentStmt@33337b04;(print(v);(Model.Statments.CondAssignmentStmt@4854f9c6;print(v)))))))));
+
+
+***** SymbolTable *****
+a -> (0, int );
+b -> (0, int );
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(int v;(new(a, 0);(new(b, 0);(wH(a,1);(wH(b,2);(Model.Statments.CondAssignmentStmt@33337b04;(print(v);(Model.Statments.CondAssignmentStmt@4854f9c6;print(v)))))))));
+
+
+***** SymbolTable *****
+a -> (0, int );
+b -> (0, int );
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+int v;
+(new(a, 0);(new(b, 0);(wH(a,1);(wH(b,2);(Model.Statments.CondAssignmentStmt@33337b04;(print(v);(Model.Statments.CondAssignmentStmt@4854f9c6;print(v))))))));
+
+
+***** SymbolTable *****
+a -> (0, int );
+b -> (0, int );
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+int v;
+(new(a, 0);(new(b, 0);(wH(a,1);(wH(b,2);(Model.Statments.CondAssignmentStmt@33337b04;(print(v);(Model.Statments.CondAssignmentStmt@4854f9c6;print(v))))))));
+
+
+***** SymbolTable *****
+a -> (0, int );
+b -> (0, int );
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(new(a, 0);(new(b, 0);(wH(a,1);(wH(b,2);(Model.Statments.CondAssignmentStmt@33337b04;(print(v);(Model.Statments.CondAssignmentStmt@4854f9c6;print(v))))))));
+
+
+***** SymbolTable *****
+a -> (0, int );
+b -> (0, int );
+v -> 0;
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(new(a, 0);(new(b, 0);(wH(a,1);(wH(b,2);(Model.Statments.CondAssignmentStmt@33337b04;(print(v);(Model.Statments.CondAssignmentStmt@4854f9c6;print(v))))))));
+
+
+***** SymbolTable *****
+a -> (0, int );
+b -> (0, int );
+v -> 0;
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+new(a, 0);
+(new(b, 0);(wH(a,1);(wH(b,2);(Model.Statments.CondAssignmentStmt@33337b04;(print(v);(Model.Statments.CondAssignmentStmt@4854f9c6;print(v)))))));
+
+
+***** SymbolTable *****
+a -> (0, int );
+b -> (0, int );
+v -> 0;
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+new(a, 0);
+(new(b, 0);(wH(a,1);(wH(b,2);(Model.Statments.CondAssignmentStmt@33337b04;(print(v);(Model.Statments.CondAssignmentStmt@4854f9c6;print(v)))))));
+
+
+***** SymbolTable *****
+a -> (0, int );
+b -> (0, int );
+v -> 0;
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(new(b, 0);(wH(a,1);(wH(b,2);(Model.Statments.CondAssignmentStmt@33337b04;(print(v);(Model.Statments.CondAssignmentStmt@4854f9c6;print(v)))))));
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (0, int );
+v -> 0;
+
+***** Heap *****
+1->0
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(new(b, 0);(wH(a,1);(wH(b,2);(Model.Statments.CondAssignmentStmt@33337b04;(print(v);(Model.Statments.CondAssignmentStmt@4854f9c6;print(v)))))));
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (0, int );
+v -> 0;
+
+***** Heap *****
+1->0
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+new(b, 0);
+(wH(a,1);(wH(b,2);(Model.Statments.CondAssignmentStmt@33337b04;(print(v);(Model.Statments.CondAssignmentStmt@4854f9c6;print(v))))));
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (0, int );
+v -> 0;
+
+***** Heap *****
+1->0
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+new(b, 0);
+(wH(a,1);(wH(b,2);(Model.Statments.CondAssignmentStmt@33337b04;(print(v);(Model.Statments.CondAssignmentStmt@4854f9c6;print(v))))));
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (0, int );
+v -> 0;
+
+***** Heap *****
+1->0
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(wH(a,1);(wH(b,2);(Model.Statments.CondAssignmentStmt@33337b04;(print(v);(Model.Statments.CondAssignmentStmt@4854f9c6;print(v))))));
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (2, int );
+v -> 0;
+
+***** Heap *****
+1->0
+2->0
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(wH(a,1);(wH(b,2);(Model.Statments.CondAssignmentStmt@33337b04;(print(v);(Model.Statments.CondAssignmentStmt@4854f9c6;print(v))))));
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (2, int );
+v -> 0;
+
+***** Heap *****
+1->0
+2->0
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+wH(a,1);
+(wH(b,2);(Model.Statments.CondAssignmentStmt@33337b04;(print(v);(Model.Statments.CondAssignmentStmt@4854f9c6;print(v)))));
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (2, int );
+v -> 0;
+
+***** Heap *****
+1->0
+2->0
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+wH(a,1);
+(wH(b,2);(Model.Statments.CondAssignmentStmt@33337b04;(print(v);(Model.Statments.CondAssignmentStmt@4854f9c6;print(v)))));
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (2, int );
+v -> 0;
+
+***** Heap *****
+1->0
+2->0
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(wH(b,2);(Model.Statments.CondAssignmentStmt@33337b04;(print(v);(Model.Statments.CondAssignmentStmt@4854f9c6;print(v)))));
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (2, int );
+v -> 0;
+
+***** Heap *****
+1->1
+2->0
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(wH(b,2);(Model.Statments.CondAssignmentStmt@33337b04;(print(v);(Model.Statments.CondAssignmentStmt@4854f9c6;print(v)))));
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (2, int );
+v -> 0;
+
+***** Heap *****
+1->1
+2->0
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+wH(b,2);
+(Model.Statments.CondAssignmentStmt@33337b04;(print(v);(Model.Statments.CondAssignmentStmt@4854f9c6;print(v))));
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (2, int );
+v -> 0;
+
+***** Heap *****
+1->1
+2->0
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+wH(b,2);
+(Model.Statments.CondAssignmentStmt@33337b04;(print(v);(Model.Statments.CondAssignmentStmt@4854f9c6;print(v))));
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (2, int );
+v -> 0;
+
+***** Heap *****
+1->1
+2->0
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(Model.Statments.CondAssignmentStmt@33337b04;(print(v);(Model.Statments.CondAssignmentStmt@4854f9c6;print(v))));
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (2, int );
+v -> 0;
+
+***** Heap *****
+1->1
+2->2
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(Model.Statments.CondAssignmentStmt@33337b04;(print(v);(Model.Statments.CondAssignmentStmt@4854f9c6;print(v))));
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (2, int );
+v -> 0;
+
+***** Heap *****
+1->1
+2->2
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+Model.Statments.CondAssignmentStmt@33337b04;
+(print(v);(Model.Statments.CondAssignmentStmt@4854f9c6;print(v)));
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (2, int );
+v -> 0;
+
+***** Heap *****
+1->1
+2->2
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+Model.Statments.CondAssignmentStmt@33337b04;
+(print(v);(Model.Statments.CondAssignmentStmt@4854f9c6;print(v)));
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (2, int );
+v -> 0;
+
+***** Heap *****
+1->1
+2->2
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(IF((rH(a)<rH(b))) THEN(v=100)ELSE(v=200));
+(print(v);(Model.Statments.CondAssignmentStmt@4854f9c6;print(v)));
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (2, int );
+v -> 0;
+
+***** Heap *****
+1->1
+2->2
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(IF((rH(a)<rH(b))) THEN(v=100)ELSE(v=200));
+(print(v);(Model.Statments.CondAssignmentStmt@4854f9c6;print(v)));
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (2, int );
+v -> 0;
+
+***** Heap *****
+1->1
+2->2
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+v=100;
+(print(v);(Model.Statments.CondAssignmentStmt@4854f9c6;print(v)));
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (2, int );
+v -> 0;
+
+***** Heap *****
+1->1
+2->2
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+v=100;
+(print(v);(Model.Statments.CondAssignmentStmt@4854f9c6;print(v)));
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (2, int );
+v -> 0;
+
+***** Heap *****
+1->1
+2->2
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(print(v);(Model.Statments.CondAssignmentStmt@4854f9c6;print(v)));
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (2, int );
+v -> 100;
+
+***** Heap *****
+1->1
+2->2
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(print(v);(Model.Statments.CondAssignmentStmt@4854f9c6;print(v)));
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (2, int );
+v -> 100;
+
+***** Heap *****
+1->1
+2->2
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+print(v);
+(Model.Statments.CondAssignmentStmt@4854f9c6;print(v));
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (2, int );
+v -> 100;
+
+***** Heap *****
+1->1
+2->2
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+print(v);
+(Model.Statments.CondAssignmentStmt@4854f9c6;print(v));
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (2, int );
+v -> 100;
+
+***** Heap *****
+1->1
+2->2
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(Model.Statments.CondAssignmentStmt@4854f9c6;print(v));
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (2, int );
+v -> 100;
+
+***** Heap *****
+1->1
+2->2
+
+***** OutputList *****
+100
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(Model.Statments.CondAssignmentStmt@4854f9c6;print(v));
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (2, int );
+v -> 100;
+
+***** Heap *****
+1->1
+2->2
+
+***** OutputList *****
+100
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+Model.Statments.CondAssignmentStmt@4854f9c6;
+print(v);
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (2, int );
+v -> 100;
+
+***** Heap *****
+1->1
+2->2
+
+***** OutputList *****
+100
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+Model.Statments.CondAssignmentStmt@4854f9c6;
+print(v);
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (2, int );
+v -> 100;
+
+***** Heap *****
+1->1
+2->2
+
+***** OutputList *****
+100
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(IF(((rH(b)-2)>rH(a))) THEN(v=100)ELSE(v=200));
+print(v);
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (2, int );
+v -> 100;
+
+***** Heap *****
+1->1
+2->2
+
+***** OutputList *****
+100
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(IF(((rH(b)-2)>rH(a))) THEN(v=100)ELSE(v=200));
+print(v);
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (2, int );
+v -> 100;
+
+***** Heap *****
+1->1
+2->2
+
+***** OutputList *****
+100
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+v=200;
+print(v);
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (2, int );
+v -> 100;
+
+***** Heap *****
+1->1
+2->2
+
+***** OutputList *****
+100
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+v=200;
+print(v);
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (2, int );
+v -> 100;
+
+***** Heap *****
+1->1
+2->2
+
+***** OutputList *****
+100
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+print(v);
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (2, int );
+v -> 200;
+
+***** Heap *****
+1->1
+2->2
+
+***** OutputList *****
+100
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+print(v);
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (2, int );
+v -> 200;
+
+***** Heap *****
+1->1
+2->2
+
+***** OutputList *****
+100
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (2, int );
+v -> 200;
+
+***** Heap *****
+1->1
+2->2
+
+***** OutputList *****
+100
+200
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(Ref(int )a;(Ref(int )b;(int v;(new(a, 0);(new(b, 0);(wH(a,1);(wH(b,2);(v=(rH(a)<rH(b))?100:200;(print(v);(v=((rH(b)-2)>rH(a))?100:200;print(v)))))))))));
+
+
+***** SymbolTable *****
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+Ref(int )a;
+(Ref(int )b;(int v;(new(a, 0);(new(b, 0);(wH(a,1);(wH(b,2);(v=(rH(a)<rH(b))?100:200;(print(v);(v=((rH(b)-2)>rH(a))?100:200;print(v))))))))));
+
+
+***** SymbolTable *****
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+Ref(int )a;
+(Ref(int )b;(int v;(new(a, 0);(new(b, 0);(wH(a,1);(wH(b,2);(v=(rH(a)<rH(b))?100:200;(print(v);(v=((rH(b)-2)>rH(a))?100:200;print(v))))))))));
+
+
+***** SymbolTable *****
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(Ref(int )b;(int v;(new(a, 0);(new(b, 0);(wH(a,1);(wH(b,2);(v=(rH(a)<rH(b))?100:200;(print(v);(v=((rH(b)-2)>rH(a))?100:200;print(v))))))))));
+
+
+***** SymbolTable *****
+a -> (0, int );
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(Ref(int )b;(int v;(new(a, 0);(new(b, 0);(wH(a,1);(wH(b,2);(v=(rH(a)<rH(b))?100:200;(print(v);(v=((rH(b)-2)>rH(a))?100:200;print(v))))))))));
+
+
+***** SymbolTable *****
+a -> (0, int );
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+Ref(int )b;
+(int v;(new(a, 0);(new(b, 0);(wH(a,1);(wH(b,2);(v=(rH(a)<rH(b))?100:200;(print(v);(v=((rH(b)-2)>rH(a))?100:200;print(v)))))))));
+
+
+***** SymbolTable *****
+a -> (0, int );
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+Ref(int )b;
+(int v;(new(a, 0);(new(b, 0);(wH(a,1);(wH(b,2);(v=(rH(a)<rH(b))?100:200;(print(v);(v=((rH(b)-2)>rH(a))?100:200;print(v)))))))));
+
+
+***** SymbolTable *****
+a -> (0, int );
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(int v;(new(a, 0);(new(b, 0);(wH(a,1);(wH(b,2);(v=(rH(a)<rH(b))?100:200;(print(v);(v=((rH(b)-2)>rH(a))?100:200;print(v)))))))));
+
+
+***** SymbolTable *****
+a -> (0, int );
+b -> (0, int );
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(int v;(new(a, 0);(new(b, 0);(wH(a,1);(wH(b,2);(v=(rH(a)<rH(b))?100:200;(print(v);(v=((rH(b)-2)>rH(a))?100:200;print(v)))))))));
+
+
+***** SymbolTable *****
+a -> (0, int );
+b -> (0, int );
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+int v;
+(new(a, 0);(new(b, 0);(wH(a,1);(wH(b,2);(v=(rH(a)<rH(b))?100:200;(print(v);(v=((rH(b)-2)>rH(a))?100:200;print(v))))))));
+
+
+***** SymbolTable *****
+a -> (0, int );
+b -> (0, int );
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+int v;
+(new(a, 0);(new(b, 0);(wH(a,1);(wH(b,2);(v=(rH(a)<rH(b))?100:200;(print(v);(v=((rH(b)-2)>rH(a))?100:200;print(v))))))));
+
+
+***** SymbolTable *****
+a -> (0, int );
+b -> (0, int );
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(new(a, 0);(new(b, 0);(wH(a,1);(wH(b,2);(v=(rH(a)<rH(b))?100:200;(print(v);(v=((rH(b)-2)>rH(a))?100:200;print(v))))))));
+
+
+***** SymbolTable *****
+a -> (0, int );
+b -> (0, int );
+v -> 0;
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(new(a, 0);(new(b, 0);(wH(a,1);(wH(b,2);(v=(rH(a)<rH(b))?100:200;(print(v);(v=((rH(b)-2)>rH(a))?100:200;print(v))))))));
+
+
+***** SymbolTable *****
+a -> (0, int );
+b -> (0, int );
+v -> 0;
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+new(a, 0);
+(new(b, 0);(wH(a,1);(wH(b,2);(v=(rH(a)<rH(b))?100:200;(print(v);(v=((rH(b)-2)>rH(a))?100:200;print(v)))))));
+
+
+***** SymbolTable *****
+a -> (0, int );
+b -> (0, int );
+v -> 0;
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+new(a, 0);
+(new(b, 0);(wH(a,1);(wH(b,2);(v=(rH(a)<rH(b))?100:200;(print(v);(v=((rH(b)-2)>rH(a))?100:200;print(v)))))));
+
+
+***** SymbolTable *****
+a -> (0, int );
+b -> (0, int );
+v -> 0;
+
+***** Heap *****
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(new(b, 0);(wH(a,1);(wH(b,2);(v=(rH(a)<rH(b))?100:200;(print(v);(v=((rH(b)-2)>rH(a))?100:200;print(v)))))));
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (0, int );
+v -> 0;
+
+***** Heap *****
+1->0
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(new(b, 0);(wH(a,1);(wH(b,2);(v=(rH(a)<rH(b))?100:200;(print(v);(v=((rH(b)-2)>rH(a))?100:200;print(v)))))));
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (0, int );
+v -> 0;
+
+***** Heap *****
+1->0
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+new(b, 0);
+(wH(a,1);(wH(b,2);(v=(rH(a)<rH(b))?100:200;(print(v);(v=((rH(b)-2)>rH(a))?100:200;print(v))))));
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (0, int );
+v -> 0;
+
+***** Heap *****
+1->0
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+new(b, 0);
+(wH(a,1);(wH(b,2);(v=(rH(a)<rH(b))?100:200;(print(v);(v=((rH(b)-2)>rH(a))?100:200;print(v))))));
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (0, int );
+v -> 0;
+
+***** Heap *****
+1->0
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(wH(a,1);(wH(b,2);(v=(rH(a)<rH(b))?100:200;(print(v);(v=((rH(b)-2)>rH(a))?100:200;print(v))))));
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (2, int );
+v -> 0;
+
+***** Heap *****
+1->0
+2->0
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(wH(a,1);(wH(b,2);(v=(rH(a)<rH(b))?100:200;(print(v);(v=((rH(b)-2)>rH(a))?100:200;print(v))))));
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (2, int );
+v -> 0;
+
+***** Heap *****
+1->0
+2->0
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+wH(a,1);
+(wH(b,2);(v=(rH(a)<rH(b))?100:200;(print(v);(v=((rH(b)-2)>rH(a))?100:200;print(v)))));
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (2, int );
+v -> 0;
+
+***** Heap *****
+1->0
+2->0
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+wH(a,1);
+(wH(b,2);(v=(rH(a)<rH(b))?100:200;(print(v);(v=((rH(b)-2)>rH(a))?100:200;print(v)))));
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (2, int );
+v -> 0;
+
+***** Heap *****
+1->0
+2->0
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(wH(b,2);(v=(rH(a)<rH(b))?100:200;(print(v);(v=((rH(b)-2)>rH(a))?100:200;print(v)))));
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (2, int );
+v -> 0;
+
+***** Heap *****
+1->1
+2->0
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(wH(b,2);(v=(rH(a)<rH(b))?100:200;(print(v);(v=((rH(b)-2)>rH(a))?100:200;print(v)))));
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (2, int );
+v -> 0;
+
+***** Heap *****
+1->1
+2->0
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+wH(b,2);
+(v=(rH(a)<rH(b))?100:200;(print(v);(v=((rH(b)-2)>rH(a))?100:200;print(v))));
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (2, int );
+v -> 0;
+
+***** Heap *****
+1->1
+2->0
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+wH(b,2);
+(v=(rH(a)<rH(b))?100:200;(print(v);(v=((rH(b)-2)>rH(a))?100:200;print(v))));
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (2, int );
+v -> 0;
+
+***** Heap *****
+1->1
+2->0
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(v=(rH(a)<rH(b))?100:200;(print(v);(v=((rH(b)-2)>rH(a))?100:200;print(v))));
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (2, int );
+v -> 0;
+
+***** Heap *****
+1->1
+2->2
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(v=(rH(a)<rH(b))?100:200;(print(v);(v=((rH(b)-2)>rH(a))?100:200;print(v))));
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (2, int );
+v -> 0;
+
+***** Heap *****
+1->1
+2->2
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+v=(rH(a)<rH(b))?100:200;
+(print(v);(v=((rH(b)-2)>rH(a))?100:200;print(v)));
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (2, int );
+v -> 0;
+
+***** Heap *****
+1->1
+2->2
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+v=(rH(a)<rH(b))?100:200;
+(print(v);(v=((rH(b)-2)>rH(a))?100:200;print(v)));
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (2, int );
+v -> 0;
+
+***** Heap *****
+1->1
+2->2
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(IF((rH(a)<rH(b))) THEN(v=100)ELSE(v=200));
+(print(v);(v=((rH(b)-2)>rH(a))?100:200;print(v)));
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (2, int );
+v -> 0;
+
+***** Heap *****
+1->1
+2->2
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(IF((rH(a)<rH(b))) THEN(v=100)ELSE(v=200));
+(print(v);(v=((rH(b)-2)>rH(a))?100:200;print(v)));
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (2, int );
+v -> 0;
+
+***** Heap *****
+1->1
+2->2
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+v=100;
+(print(v);(v=((rH(b)-2)>rH(a))?100:200;print(v)));
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (2, int );
+v -> 0;
+
+***** Heap *****
+1->1
+2->2
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+v=100;
+(print(v);(v=((rH(b)-2)>rH(a))?100:200;print(v)));
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (2, int );
+v -> 0;
+
+***** Heap *****
+1->1
+2->2
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(print(v);(v=((rH(b)-2)>rH(a))?100:200;print(v)));
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (2, int );
+v -> 100;
+
+***** Heap *****
+1->1
+2->2
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(print(v);(v=((rH(b)-2)>rH(a))?100:200;print(v)));
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (2, int );
+v -> 100;
+
+***** Heap *****
+1->1
+2->2
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+print(v);
+(v=((rH(b)-2)>rH(a))?100:200;print(v));
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (2, int );
+v -> 100;
+
+***** Heap *****
+1->1
+2->2
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+print(v);
+(v=((rH(b)-2)>rH(a))?100:200;print(v));
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (2, int );
+v -> 100;
+
+***** Heap *****
+1->1
+2->2
+
+***** OutputList *****
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(v=((rH(b)-2)>rH(a))?100:200;print(v));
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (2, int );
+v -> 100;
+
+***** Heap *****
+1->1
+2->2
+
+***** OutputList *****
+100
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(v=((rH(b)-2)>rH(a))?100:200;print(v));
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (2, int );
+v -> 100;
+
+***** Heap *****
+1->1
+2->2
+
+***** OutputList *****
+100
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+v=((rH(b)-2)>rH(a))?100:200;
+print(v);
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (2, int );
+v -> 100;
+
+***** Heap *****
+1->1
+2->2
+
+***** OutputList *****
+100
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+v=((rH(b)-2)>rH(a))?100:200;
+print(v);
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (2, int );
+v -> 100;
+
+***** Heap *****
+1->1
+2->2
+
+***** OutputList *****
+100
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(IF(((rH(b)-2)>rH(a))) THEN(v=100)ELSE(v=200));
+print(v);
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (2, int );
+v -> 100;
+
+***** Heap *****
+1->1
+2->2
+
+***** OutputList *****
+100
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+(IF(((rH(b)-2)>rH(a))) THEN(v=100)ELSE(v=200));
+print(v);
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (2, int );
+v -> 100;
+
+***** Heap *****
+1->1
+2->2
+
+***** OutputList *****
+100
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+v=200;
+print(v);
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (2, int );
+v -> 100;
+
+***** Heap *****
+1->1
+2->2
+
+***** OutputList *****
+100
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+v=200;
+print(v);
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (2, int );
+v -> 100;
+
+***** Heap *****
+1->1
+2->2
+
+***** OutputList *****
+100
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+print(v);
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (2, int );
+v -> 200;
+
+***** Heap *****
+1->1
+2->2
+
+***** OutputList *****
+100
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+print(v);
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (2, int );
+v -> 200;
+
+***** Heap *****
+1->1
+2->2
+
+***** OutputList *****
+100
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
+Thread number id: 1
+------------------------------------------------------
+***** ExecutionStack *****
+
+
+***** SymbolTable *****
+a -> (1, int );
+b -> (2, int );
+v -> 200;
+
+***** Heap *****
+1->1
+2->2
+
+***** OutputList *****
+100
+200
+
+***** FileTable *****
+
+------------------------------------------------------
+
+
