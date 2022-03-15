@@ -1,7 +1,7 @@
 # Toy Language Interpreter
  * Implemented an interpreter for a toy language, using the model-view-controller architectural pattern and the object-oriented 
 concepts.
- * The interpreter handles expressions and statements and can have variables of different types.
+ * The interpreter handles *expressions* and *statements* and can have *variables* of different *types*.
  * A program (`Prg`) in this language consists of a statement (`Stmt`).
  * A statement can be:
     - a compound statement (`CompStmt`)
@@ -21,12 +21,14 @@ concepts.
     - **Heap Table** (`HeapTable`): manages the heap memory.
  * Our interpreter can execute multiple programs but for each of them use a different PrgState structures (that means different ExeStack, SymTable and Out structures).
  * At the beginning, ExeStack contains the original program, and SymTable and Out are empty. After the evaluation has started, ExeStack contains the remaining part of the program that must be evaluated, SymTable contains the variables (from the variable declarations statements evaluated so far) with their assigned values, and Out contains the values printed so far. At the end of a program evaluation, ExeStack is empty, SymTable contains all the program variables, and Out contains all the program print outputs.
- * The interpreter supports concurrancy and has implemented a Type Checker.
- * The interpreter provides synchronization mechanisms such as:
+ * The interpreter supports **concurrancy** and has implemented a **Type Checker**.
+ * The interpreter provides **synchronization mechanisms** such as:
    - Lock
    - Semaphore
    - Count Down Latch
  * The interpreter has a GUI implemented in JavaFX that shows execution of a program step by step.
 
+![SelectWindow](https://user-images.githubusercontent.com/72136776/158454135-ad71e5fb-cd22-4b21-a91e-a7e89f5b1eef.png)
 
- 
+ ![MainWindow](https://user-images.githubusercontent.com/72136776/158454161-9f599f12-9888-4805-a852-66f7e33ca60c.png)
+
