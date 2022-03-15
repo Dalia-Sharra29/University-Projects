@@ -1,4 +1,4 @@
-# Snake 
+# Snake Game
 Implement a console-based version of the beloved [game of Snake](https://www.google.com/search?q=play+snake) using Python 3 and object-driven layered architecture. User input must be validated. The program must work in the following way:
 1. At program start, display the game area.
    - The game area is a `DIM x DIM` matrix of squares that contains the snake and a number of `apple_count` apples. The snake always starts with a head segment (`*`) and two body segments (`+`) and is placed in the middle of the board. Each apple is represented using a dot (`.`). Apples are placed randomly, so that two apples cannot be adjacent on the row or column, and cannot overlap the snake's starting position.
