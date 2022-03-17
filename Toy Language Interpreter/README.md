@@ -35,7 +35,7 @@ concepts.
     - integer (`IntValue`)
     - reference (`RefValue`)
     - string (`StringValue`)
- * Our mini interpreter uses three main structures to denote the program state (`PrgState`):
+ * Our mini interpreter uses five main structures to denote the program state (`PrgState`):
     - **Execution Stack** (`ExeStack`): a stack of statements to execute the currrent program
     - **Table of Symbols** (`SymTable`): a table which keeps the variables and their values
     - **Output** (`Out`): keeps all the messages printed by the toy program
