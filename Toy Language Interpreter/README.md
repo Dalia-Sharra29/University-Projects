@@ -43,7 +43,7 @@ concepts.
     - **Heap Table** (`HeapTable`): manages the heap memory.
  * Our interpreter can execute multiple programs but for each of them use a different PrgState structures (that means different ExeStack, SymTable and Out structures).
  * At the beginning, ExeStack contains the original program, and SymTable and Out are empty. After the evaluation has started, ExeStack contains the remaining part of the program that must be evaluated, SymTable contains the variables (from the variable declarations statements evaluated so far) with their assigned values, and Out contains the values printed so far. At the end of a program evaluation, ExeStack is empty, SymTable contains all the program variables, and Out contains all the program print outputs.
- * The interpreter supports **concurrancy** and has implemented a **Type Checker**.
+ * The interpreter supports **concurrency** and has implemented a **Type Checker**.
  * The interpreter provides **synchronization mechanisms** such as:
    - Lock
    - Semaphore
